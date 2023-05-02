@@ -22,7 +22,7 @@
       - [English Vocabulary in Use Advanced](#english-vocabulary-in-use-advanced)
     - [Word Power Made Easy](#word-power-made-easy)
   - [语法](#语法)
-    - [剑桥语法](#剑桥语法)
+    - [剑桥英语语法](#剑桥英语语法)
       - [Essentinal Grammar in Use](#essentinal-grammar-in-use)
       - [English Grammar in Use](#english-grammar-in-use)
       - [Advanced Grammar in Use](#advanced-grammar-in-use)
@@ -73,7 +73,7 @@
 
 ## 语法
 
-### 剑桥语法
+### 剑桥英语语法
 
 #### Essentinal Grammar in Use
 
