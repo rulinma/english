@@ -22,6 +22,8 @@
       - [English Vocabulary in Use Advanced](#english-vocabulary-in-use-advanced)
     - [Word Power Made Easy](#word-power-made-easy)
     - [Corpus of Contemporary American English](#corpus-of-contemporary-american-english)
+    - [词汇表](#词汇表)
+      - [首字母目录](#首字母目录)
   - [语法](#语法)
     - [剑桥英语语法](#剑桥英语语法)
       - [Essentinal Grammar in Use](#essentinal-grammar-in-use)
@@ -75,6 +77,12 @@
 ### [Corpus of Contemporary American English](词汇/Corpus%20of%20Contemporary%20American%20English/README.md)
 
 [COCA词频列表](词汇/Corpus%20of%20Contemporary%20American%20English/COCA.txt)
+
+### 词汇表
+
+#### 首字母目录
+
+* [ [A](词汇/词汇表/a/REAMD.md) | [B](词汇/词汇表/b/REAMD.md) | [C](词汇/词汇表/c/REAMD.md) | [D](词汇/词汇表/d/REAMD.md) | [E](词汇/词汇表/e/REAMD.md) | [F](词汇/词汇表/f/REAMD.md) | [G](词汇/词汇表/g/REAMD.md) | [H](词汇/词汇表/h/REAMD.md) | [I](词汇/词汇表/i/REAMD.md) | [J](词汇/词汇表/j/REAMD.md) | [K](词汇/词汇表/k/REAMD.md) | [L](词汇/词汇表/l/REAMD.md) | [M](词汇/词汇表/m/REAMD.md) | [N](词汇/词汇表/n/REAMD.md) | [O](词汇/词汇表/o/REAMD.md) | [P](词汇/词汇表/p/REAMD.md) | [Q](词汇/词汇表/q/REAMD.md) | [R](词汇/词汇表/r/REAMD.md) | [S](词汇/词汇表/s/REAMD.md) | [T](词汇/词汇表/t/REAMD.md) | [U](词汇/词汇表/u/REAMD.md) | [V](词汇/词汇表/v/REAMD.md) | [W](词汇/词汇表/w/REAMD.md) | [X](词汇/词汇表/x/REAMD.md) | [Y](词汇/词汇表/y/REAMD.md) | [Z](词汇/词汇表/z/REAMD.md) ]
 
 ## 语法
 
