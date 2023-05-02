@@ -21,6 +21,7 @@
       - [English Vocabulary in Use Upper-Intermediate](#english-vocabulary-in-use-upper-intermediate)
       - [English Vocabulary in Use Advanced](#english-vocabulary-in-use-advanced)
     - [Word Power Made Easy](#word-power-made-easy)
+    - [Corpus of Contemporary English](#corpus-of-contemporary-english)
   - [语法](#语法)
     - [剑桥英语语法](#剑桥英语语法)
       - [Essentinal Grammar in Use](#essentinal-grammar-in-use)
@@ -70,6 +71,8 @@
 #### English Vocabulary in Use Advanced
 
 ### Word Power Made Easy
+
+### [Corpus of Contemporary English](词汇/Corpus%20of%20Contemporary%20English/README.md)
 
 ## 语法
 
