@@ -74,6 +74,8 @@
 
 ### [Corpus of Contemporary American English](词汇/Corpus%20of%20Contemporary%20American%20English/README.md)
 
+[COCA词频列表](词汇/Corpus%20of%20Contemporary%20American%20English/COCA.txt)
+
 ## 语法
 
 ### 剑桥英语语法
