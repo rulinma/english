@@ -120,7 +120,7 @@
 
 ## 其他
 
-[做孩子最好的英语学习规划师](http://product.dangdang.com/28488001.html)
+[图书][做孩子最好的英语学习规划师](http://product.dangdang.com/28488001.html)
 
 ## 赞赏
 
