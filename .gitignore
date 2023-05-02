@@ -1,0 +1,39 @@
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.ppsx
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.rm
+*.txt
+*.chm
+*.key
+*.pages
+*.sh
+*.py
+*.html
+*.js
+*.css
+*.java
+
+*.jpeg
+*.png
+
+*.zip
+*.tar
+
+# Mac
+.DS_Store
+._.DS_Store
+
+*.cfg
+
+# 过滤资料目录
+资料/
+
+# 不忽略的文件前面加!
+!images/wx_bonus.jpeg
