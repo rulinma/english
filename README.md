@@ -10,6 +10,7 @@
   - [愿景](#愿景)
   - [目录](#目录)
   - [词汇](#词汇)
+    - [词汇量测试](#词汇量测试)
     - [Vocabulary Build Up](#vocabulary-build-up)
       - [1000 Basic English Words](#1000-basic-english-words)
       - [2000 Core English Words](#2000-core-english-words)
@@ -44,6 +45,10 @@
   - [赞赏](#赞赏)
 
 ## 词汇
+
+### 词汇量测试
+
+[Test your English vocabulary](http://testyourvocab.com)
 
 ### Vocabulary Build Up
 
