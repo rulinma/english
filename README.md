@@ -94,7 +94,8 @@
 
 ### 发音
 
-[视频][BBC发音](https://www.bilibili.com/video/BV1Y4411M7Ac?)
+[视频][BBC发音](https://www.bilibili.com/video/BV1Y4411M7Ac)
+[图书][英语单词发音密码](http://product.dangdang.com/24167524.html)
 
 ## 阅读
 
