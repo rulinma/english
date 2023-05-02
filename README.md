@@ -82,7 +82,7 @@
 
 #### 首字母目录
 
-* [ [A](词汇/词汇表/a/REAMD.md) | [B](词汇/词汇表/b/REAMD.md) | [C](词汇/词汇表/c/REAMD.md) | [D](词汇/词汇表/d/REAMD.md) | [E](词汇/词汇表/e/REAMD.md) | [F](词汇/词汇表/f/REAMD.md) | [G](词汇/词汇表/g/REAMD.md) | [H](词汇/词汇表/h/REAMD.md) | [I](词汇/词汇表/i/REAMD.md) | [J](词汇/词汇表/j/REAMD.md) | [K](词汇/词汇表/k/REAMD.md) | [L](词汇/词汇表/l/REAMD.md) | [M](词汇/词汇表/m/REAMD.md) | [N](词汇/词汇表/n/REAMD.md) | [O](词汇/词汇表/o/REAMD.md) | [P](词汇/词汇表/p/REAMD.md) | [Q](词汇/词汇表/q/REAMD.md) | [R](词汇/词汇表/r/REAMD.md) | [S](词汇/词汇表/s/REAMD.md) | [T](词汇/词汇表/t/REAMD.md) | [U](词汇/词汇表/u/REAMD.md) | [V](词汇/词汇表/v/REAMD.md) | [W](词汇/词汇表/w/REAMD.md) | [X](词汇/词汇表/x/REAMD.md) | [Y](词汇/词汇表/y/REAMD.md) | [Z](词汇/词汇表/z/REAMD.md) ]
+* [ [A](词汇/词汇表/A/REAMD.md) | [B](词汇/词汇表/B/REAMD.md) | [C](词汇/词汇表/C/REAMD.md) | [D](词汇/词汇表/D/REAMD.md) | [E](词汇/词汇表/E/REAMD.md) | [F](词汇/词汇表/F/REAMD.md) | [G](词汇/词汇表/G/REAMD.md) | [H](词汇/词汇表/H/REAMD.md) | [I](词汇/词汇表/I/REAMD.md) | [J](词汇/词汇表/J/REAMD.md) | [K](词汇/词汇表/K/REAMD.md) | [L](词汇/词汇表/L/REAMD.md) | [M](词汇/词汇表/M/REAMD.md) | [N](词汇/词汇表/N/REAMD.md) | [O](词汇/词汇表/O/REAMD.md) | [P](词汇/词汇表/P/REAMD.md) | [Q](词汇/词汇表/Q/REAMD.md) | [R](词汇/词汇表/R/REAMD.md) | [S](词汇/词汇表/S/REAMD.md) | [T](词汇/词汇表/T/REAMD.md) | [U](词汇/词汇表/U/REAMD.md) | [V](词汇/词汇表/V/REAMD.md) | [W](词汇/词汇表/W/REAMD.md) | [X](词汇/词汇表/X/REAMD.md) | [Y](词汇/词汇表/Y/REAMD.md) | [Z](词汇/词汇表/Z/REAMD.md) ]
 
 ## 语法
 
