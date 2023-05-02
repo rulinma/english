@@ -12,7 +12,7 @@
   - [词汇](#词汇)
     - [词汇量测试](#词汇量测试)
     - [Vocabulary Build Up](#vocabulary-build-up)
-      - [1000 Basic English Words](#1000-basic-english-words)
+      - [\[1000 Basic English Words\](词汇/Corpus of Contemporary American English/README.md)](#1000-basic-english-words词汇corpus-of-contemporary-american-englishreadmemd)
       - [2000 Core English Words](#2000-core-english-words)
       - [4000 Essential English Words](#4000-essential-english-words)
     - [English Vocabulary in Use](#english-vocabulary-in-use)
@@ -21,7 +21,7 @@
       - [English Vocabulary in Use Upper-Intermediate](#english-vocabulary-in-use-upper-intermediate)
       - [English Vocabulary in Use Advanced](#english-vocabulary-in-use-advanced)
     - [Word Power Made Easy](#word-power-made-easy)
-    - [Corpus of Contemporary English](#corpus-of-contemporary-english)
+    - [Corpus of Contemporary American English](#corpus-of-contemporary-american-english)
   - [语法](#语法)
     - [剑桥英语语法](#剑桥英语语法)
       - [Essentinal Grammar in Use](#essentinal-grammar-in-use)
@@ -54,7 +54,7 @@
 
 ### Vocabulary Build Up
 
-#### [1000 Basic English Words](词汇/Vocabulary%20Build%20Up/1000%20Basic%20English%20Words/README.md)
+#### [1000 Basic English Words](词汇/Corpus of Contemporary American English/README.md)
 
 #### 2000 Core English Words
 
@@ -72,7 +72,7 @@
 
 ### Word Power Made Easy
 
-### [Corpus of Contemporary English](词汇/Corpus%20of%20Contemporary%20English/README.md)
+### [Corpus of Contemporary American English](词汇/Corpus%20of%20Contemporary%20American%20English/README.md)
 
 ## 语法
 
