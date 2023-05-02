@@ -50,11 +50,17 @@
 
 ## 口语
 
+### 发音
+
+[视频][BBC发音](https://www.bilibili.com/video/BV1Y4411M7Ac?)
+
 ## 阅读
 
 ### RAZ阅读
 
 ## 写作
+
+[图书]美国大学英语写作(College Writing Skills with Readings)
 
 ## 课程
 
