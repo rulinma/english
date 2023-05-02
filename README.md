@@ -47,7 +47,7 @@
 
 ### Vocabulary Build Up
 
-#### 1000 Basic English Words
+#### [1000 Basic English Words](词汇/Vocabulary%20Build%20Up/1000%20Basic%20English%20Words/README.md)
 
 #### 2000 Core English Words
 
