@@ -25,6 +25,7 @@
     - [Corpus of Contemporary American English](#corpus-of-contemporary-american-english)
     - [词汇表](#词汇表)
       - [首字母目录](#首字母目录)
+    - [推荐](#推荐)
   - [语法](#语法)
     - [剑桥英语语法](#剑桥英语语法)
       - [Essentinal Grammar in Use](#essentinal-grammar-in-use)
@@ -94,6 +95,12 @@
 #### 首字母目录
 
 * [ [A](词汇/词汇表/A/REAMD.md) | [B](词汇/词汇表/B/REAMD.md) | [C](词汇/词汇表/C/REAMD.md) | [D](词汇/词汇表/D/REAMD.md) | [E](词汇/词汇表/E/REAMD.md) | [F](词汇/词汇表/F/REAMD.md) | [G](词汇/词汇表/G/REAMD.md) | [H](词汇/词汇表/H/REAMD.md) | [I](词汇/词汇表/I/REAMD.md) | [J](词汇/词汇表/J/REAMD.md) | [K](词汇/词汇表/K/REAMD.md) | [L](词汇/词汇表/L/REAMD.md) | [M](词汇/词汇表/M/REAMD.md) | [N](词汇/词汇表/N/REAMD.md) | [O](词汇/词汇表/O/REAMD.md) | [P](词汇/词汇表/P/REAMD.md) | [Q](词汇/词汇表/Q/REAMD.md) | [R](词汇/词汇表/R/REAMD.md) | [S](词汇/词汇表/S/REAMD.md) | [T](词汇/词汇表/T/REAMD.md) | [U](词汇/词汇表/U/REAMD.md) | [V](词汇/词汇表/V/REAMD.md) | [W](词汇/词汇表/W/REAMD.md) | [X](词汇/词汇表/X/REAMD.md) | [Y](词汇/词汇表/Y/REAMD.md) | [Z](词汇/词汇表/Z/REAMD.md) ]
+
+### 推荐
+
+* [五星][图书][象形英文](http://product.dangdang.com/23507973.html)
+* [图书][象形5000]
+* [图书][百词斩象形9000]
 
 ## 语法
 
