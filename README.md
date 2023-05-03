@@ -10,6 +10,7 @@
   - [愿景](#愿景)
   - [目录](#目录)
   - [词汇](#词汇)
+    - [在线字典](#在线字典)
     - [词汇量测试](#词汇量测试)
     - [Vocabulary Build Up](#vocabulary-build-up)
       - [\[1000 Basic English Words\](词汇/Corpus of Contemporary American English/README.md)](#1000-basic-english-words词汇corpus-of-contemporary-american-englishreadmemd)
@@ -49,6 +50,16 @@
   - [赞赏](#赞赏)
 
 ## 词汇
+
+### 在线字典
+
+* [推荐][韦氏在线词典](https://www.merriam-webster.com/dictionary)
+* [朗文在线词典](https://www.ldoceonline.com/dictionary)
+* [推荐][柯林斯在线词典](https://www.collinsdictionary.com/zh/dictionary/english)
+* [剑桥在线词典](https://dictionary.cambridge.org/dictionary/english-chinese-simplified)
+* [牛津在线词典](https://www.oxfordlearnersdictionaries.com/definition/english)
+* [推荐][有道](https://dict.youdao.com)
+* [推荐][词源](https://www.etymonline.com)
 
 ### 词汇量测试
 
