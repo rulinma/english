@@ -1,4 +1,5 @@
-a/an
+a
+an
 abandon
 able
 ability
