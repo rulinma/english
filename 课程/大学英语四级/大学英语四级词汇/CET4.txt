@@ -1446,7 +1446,6 @@ dating
 daughter
 dawn
 day
-daily
 daylight
 dead
 deadline
@@ -1548,7 +1547,6 @@ depress
 depression
 deprive
 deprivation
-depth
 deputy
 derive
 derivative
@@ -1999,7 +1997,6 @@ err
 error
 erroneous
 escape
-enthusiast
 especially
 essay
 essayist
@@ -2973,9 +2970,7 @@ innovation
 innovative
 input
 inquire
-enquire
 inquiry
-enquiry
 inquisitive
 insane
 insanity
@@ -3009,7 +3004,6 @@ instrument
 instrumental
 insult
 insure
-ensure
 insurance
 intact
 intake
@@ -3039,7 +3033,6 @@ interference
 interior
 intermediate
 intermediary
-intentional
 internal
 international
 internet
@@ -3103,7 +3096,6 @@ its
 itself
 jacket
 jail
-gaol
 jam
 January
 jar
@@ -3564,7 +3556,6 @@ mind
 mine
 mineral
 mining
-mine
 minimum
 minimal
 minimize
@@ -5062,12 +5053,6 @@ ship
 shipping
 shipment
 shirt
-shine
-shiny
-ship
-shipping
-shipment
-shirt
 shit
 shiver
 shock
@@ -5413,7 +5398,6 @@ storage
 storm
 stormy
 story
-store
 storey
 stove
 straight
@@ -5863,7 +5847,6 @@ trustee
 truth
 truthful
 try
-trial
 trying
 tube
 Tuesday
@@ -5889,7 +5872,6 @@ typist
 typewriter
 typical
 tyre
-tire
 ugly
 ugliness
 ultimate

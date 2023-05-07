@@ -1871,7 +1871,6 @@ dating
 daughter
 dawn
 day
-daily
 daylight
 *dazzle
 dead
@@ -2013,7 +2012,6 @@ depress
 depression
 deprive
 deprivation
-depth
 deputy
 *derail
 *derailment
@@ -2629,7 +2627,6 @@ erroneous
 *escalation
 *escalator
 escape
-enthusiast
 *escort
 especially
 essay
@@ -3836,9 +3833,7 @@ innovative
 *innumerable
 input
 inquire
-enquire
 inquiry
-enquiry
 inquisitive
 insane
 insanity
@@ -3875,7 +3870,6 @@ instrumental
 *insulator
 insult
 insure
-ensure
 insurance
 intact
 intake
@@ -3911,7 +3905,6 @@ interior
 intermediate
 intermediary
 *intermittent
-intentional
 internal
 international
 internet
@@ -4000,7 +3993,6 @@ itself
 *jack
 jacket
 jail
-gaol
 jam
 January
 jar
@@ -4581,7 +4573,6 @@ mind
 mine
 mineral
 mining
-mine
 *mingle
 *miniature
 minimum
@@ -6464,13 +6455,6 @@ shipping
 shipment
 *shipyard
 shirt
-shine
-shiny
-ship
-shipping
-shipment
-*shipyard
-shirt
 shit
 shiver
 shock
@@ -6914,7 +6898,6 @@ storage
 storm
 stormy
 story
-store
 storey
 *stout
 stove
@@ -7496,7 +7479,6 @@ trustee
 truth
 truthful
 try
-trial
 trying
 *tub
 tube
@@ -7532,7 +7514,6 @@ typist
 typewriter
 typical
 tyre
-tire
 ugly
 ugliness
 ultimate
