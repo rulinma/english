@@ -38,6 +38,8 @@
 # 不忽略的文件前面加!
 !images/wx_bonus.jpeg
 
+!词汇/Corpus of Contemporary American English/COCA.txt
+
 !词汇/Vocabulary Build Up/1000 Basic English Words/1000 Basic English Words 1.pdf
 !词汇/Vocabulary Build Up/1000 Basic English Words/1000 Basic English Words 2.pdf
 !词汇/Vocabulary Build Up/1000 Basic English Words/1000 Basic English Words 3.pdf
