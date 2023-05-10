@@ -1182,7 +1182,6 @@ congressional
 conjunction
 connect
 connection
-connecxion
 conquer
 conqueror
 conquest
@@ -1215,10 +1214,6 @@ construct
 construction
 consultation
 consultative
-csonsultant
-csonsume
-csonsumer
-csonsumption
 contact
 contain
 container
@@ -1627,7 +1622,6 @@ digestive
 digit
 digital
 dignity
-diginfy
 dilemma
 diligent
 diligence
@@ -1655,7 +1649,6 @@ disability
 disagree
 disagreement
 disappear
-disapperance
 disappoint
 disappointment
 disappointing
@@ -2751,7 +2744,6 @@ honour
 honorable
 honourable
 honorary
-honourary
 hook
 hope
 hopeful
@@ -2793,7 +2785,6 @@ humbly
 humor
 humour
 humorous
-humourous
 hundred
 hunger
 hungry
@@ -3107,7 +3098,6 @@ jeep
 jet
 jetlag
 jewel
-jewelery
 jewellery
 job
 jog
@@ -3928,7 +3918,6 @@ organ
 organic
 organism
 organize
-organiise
 organization
 organisation
 organizational
@@ -3992,7 +3981,6 @@ overwhelm
 overwhelming
 overwhelmingly
 owe
-owingto
 own
 owner
 ownership
@@ -4242,7 +4230,6 @@ polite
 politeness
 politics
 political
-policician
 poll
 pollster
 pollute
@@ -4339,7 +4326,6 @@ pressure
 pressing
 pretend
 pretense
-pretendce
 pretty
 prevail
 prevalence

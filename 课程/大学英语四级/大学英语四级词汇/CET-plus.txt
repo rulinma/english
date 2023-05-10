@@ -1530,7 +1530,6 @@ congressional
 conjunction
 connect
 connection
-connecxion
 *connotation
 conquer
 conqueror
@@ -1577,10 +1576,6 @@ construction
 *consul
 consultation
 consultative
-csonsultant
-csonsume
-csonsumer
-csonsumption
 contact
 *contagious
 contain
