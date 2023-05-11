@@ -1574,6 +1574,10 @@ construct
 construction
 *consulate
 *consul
+consume
+consumer
+consumption
+consultant
 consultation
 consultative
 contact
@@ -2117,8 +2121,8 @@ digestion
 digestive
 digit
 digital
+dignify
 dignity
-diginfy
 dilemma
 diligent
 diligence
@@ -2151,7 +2155,7 @@ disability
 disagree
 disagreement
 disappear
-disapperance
+disappearance
 disappoint
 disappointment
 disappointing
@@ -3524,8 +3528,8 @@ honor
 honour
 honorable
 honourable
-honorary
 honourary
+honorary
 hook
 *hop
 hope
@@ -3583,7 +3587,6 @@ humbly
 humor
 humour
 humorous
-humourous
 hundred
 hunger
 hungry
@@ -4005,7 +4008,7 @@ jeep
 jet
 jetlag
 jewel
-jewelery
+jewelry
 jewellery
 job
 *jockey
@@ -5018,9 +5021,9 @@ ordinary
 ore
 organ
 organic
+organise
 organism
 organize
-organiise
 organization
 organisation
 organizational
@@ -5096,7 +5099,7 @@ overwhelm
 overwhelming
 overwhelmingly
 owe
-owingto
+owing
 *owl
 own
 owner
@@ -5420,9 +5423,9 @@ policy
 polish
 polite
 politeness
+politician
 politics
 political
-policician
 poll
 pollster
 pollute
@@ -5551,9 +5554,9 @@ pressing
 *presume
 *presumption
 *presumably
+pretence
 pretend
 pretense
-pretendce
 *pretext
 pretty
 prevail
