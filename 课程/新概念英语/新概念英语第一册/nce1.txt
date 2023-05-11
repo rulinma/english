@@ -1,4 +1,3 @@
-第1课
 excuse
 me
 yes
@@ -10,7 +9,6 @@ pardon
 it
 thank you
 very much
-第3课
 umbrella
 please
 here
@@ -21,7 +19,6 @@ five
 sorry
 sir
 cloakroom
-第5课
 Mr.
 good
 morning
@@ -36,7 +33,6 @@ Japanese
 Korean
 Chinese
 too
-第7课
 I
 am
 are
@@ -47,7 +43,6 @@ job
 keyboard
 operator
 engineer
-第9课
 hello
 hi
 how
@@ -57,13 +52,11 @@ fine
 thanks
 goodbye
 see
-第11课
 whose
 blue
 perhaps
 white
 catch
-第13课
 colour
 green
 come
@@ -72,7 +65,6 @@ smart
 hat
 same
 lovely
-第15课
 customs
 officer
 girl
@@ -82,14 +74,12 @@ Norwegian
 passport
 brown
 tourist
-第17课
 employee
 hard-working
 sales reps
 man
 office
 assistant
-第19课
 matter
 children
 tired
@@ -99,14 +89,11 @@ mum
 sit down
 right
 ice cream
-第21课
 give
 one
 which
-第23课
 on
 shelf
-第25课
 Mrs.
 kitchen
 refrigerator
@@ -118,7 +105,6 @@ middle
 of
 room
 cup
-第27课
 living room
 near
 window
@@ -126,7 +112,6 @@ armchair
 door
 picture
 wall
-第29课
 shut
 bedroom
 untidy
@@ -138,7 +123,6 @@ clothes
 wardrobe
 dust
 sweep
-第31课
 garden
 under
 tree
@@ -148,7 +132,6 @@ run
 grass
 after
 cat
-第33课
 day
 cloud
 sky
@@ -164,7 +147,6 @@ river
 ship
 aeroplane
 fly
-第35课
 photograph
 village
 valley
@@ -180,7 +162,6 @@ across
 building
 park
 into
-第37课
 work
 hard
 make
@@ -189,14 +170,12 @@ hammer
 paint
 pink
 favourite
-第39课
 front
 in front of
 careful
 vase
 drop
 flower
-第41课
 cheese
 bread
 soap
@@ -205,7 +184,6 @@ sugar
 coffee
 tea
 tobacco
-第43课
 of course
 kettle
 behind
@@ -213,17 +191,14 @@ teapot
 now
 find
 boil
-第45课
 can
 boss
 minute
 ask
 handwriting
 terrible
-第47课
 like
 want
-第49课
 butcher
 meat
 beef
@@ -235,7 +210,6 @@ chicken
 tell
 truth
 either
-第51课
 Greece
 climate
 country
@@ -262,7 +236,6 @@ September
 October
 November
 December
-第53课
 mild
 always
 north
@@ -280,7 +253,6 @@ late
 interesting
 subject
 conversation
-第55课
 live
 stay
 home
@@ -292,11 +264,9 @@ together
 evening
 arrive
 night
-第57课
 o'clock
 shop
 moment
-第59课
 envelope
 writing paper
 shop assistant
@@ -305,7 +275,6 @@ pad
 glue
 chalk
 change
-第61课
 feel
 look
 must
@@ -329,7 +298,6 @@ temperature
 flu
 measles
 mumps
-第63课
 better
 certainly
 get up
@@ -337,7 +305,6 @@ yet
 rich
 food
 remain
-第65课
 Dad
 key
 baby
@@ -345,7 +312,6 @@ hear
 enjoy
 yourself
 ourselves
-第67课
 greengrocer
 absent
 Monday
@@ -360,7 +326,6 @@ Saturday
 Sunday
 country
 lucky
-第69课
 year
 race
 town
@@ -372,7 +337,6 @@ finish
 winner
 behind
 way
-第71课
 awful
 telephone
 time
@@ -381,7 +345,6 @@ last
 phone
 again
 say
-第73课
 week
 London
 suddenly
@@ -395,18 +358,15 @@ pocket
 phrasebook
 phrase
 slowly
-第75课
 ago
 buy
 pair
 fashion
 uncomfortable
 wear
-第77课
 appointment
 urgent
 till
-第79课
 shopping
 list
 vegetable
@@ -414,20 +374,17 @@ need
 hope
 thing
 money
-第81课
 bath
 nearly
 ready
 dinner
 restaurant
 roast
-第83课
 mess
 pack
 suitcase
 leave
 already
-第85课
 Paris
 cinema
 film
@@ -435,7 +392,6 @@ beautiful
 city
 never
 ever
-第87课
 attendant
 bring
 garage
@@ -443,7 +399,6 @@ crash
 lamp-post
 repair
 try
-第89课
 believe
 may
 how long
@@ -456,7 +411,6 @@ cost
 pound
 worth
 penny
-第91课
 still
 move
 miss
@@ -464,14 +418,12 @@ neighbour
 person
 people
 poor
-第93课
 pilot
 return
 New York
 Tokyo
 Madrid
 fly
-第95课
 return
 train
 platform
@@ -480,7 +432,6 @@ bar
 station
 catch
 miss
-第97课
 leave
 describe
 zip
@@ -489,7 +440,6 @@ handle
 address
 pence
 belong
-第99课
 ow
 slip
 fall
@@ -501,7 +451,6 @@ help
 at once
 sure
 X-ray
-第101课
 Scotland
 card
 youth
@@ -509,7 +458,6 @@ hostel
 association
 soon
 write
-第103课
 exam
 pass
 mathematics
@@ -527,18 +475,15 @@ low
 cheer
 guy
 top
-第105课
 spell
 intelligent
 mistake
 present
 dictionary
-第107课
 madam
 as well
 suit
 pretty
-第109课
 idea
 a little
 teaspoonful
@@ -547,14 +492,12 @@ a few
 pity
 instead
 advice
-第111课
 model
 afford
 deposit
 instalment
 price
 millionaire
-第113课
 conductor
 fare
 change
@@ -565,7 +508,6 @@ neither
 get off
 tramp
 except
-第115课
 anyone
 knock
 everything
@@ -576,14 +518,12 @@ anything
 nothing
 lemonade
 joke
-第117课
 dining room
 coin
 mouth
 swallow
 later
 toilet
-第119课
 story
 happen
 thief
@@ -592,14 +532,12 @@ dark
 torch
 voice
 parrot
-第121课
 customer
 forget
 manager
 serve
 counter
 recognize
-第123课
 during
 trip
 travel
@@ -608,20 +546,17 @@ job
 guess
 grow
 beard
-第125课
 water
 terribly
 dry
 nuisance
 mean
 surprise
-第127课
 famous
 actress
 at least
 actor
 read
-第129课
 wave
 track
 mile
@@ -632,35 +567,29 @@ sign
 driving licence
 charge
 darling
-第131课
 Egypt
 abroad
 worry
-第133课
 reporter
 sensational
 mink coat
-第135课
 future
 get married
 hotel
 latest
 introduce
-第137课
 football
 pool
 win
 world
 poor
 depend
-第139课
 extra
 engineer
 overseas
 engineering
 company
 line
-第141课
 excited
 get on
 middle-aged
@@ -674,7 +603,6 @@ ugly
 amused
 smile
 embarrassed
-第143课
 surround
 wood
 beauty spot
