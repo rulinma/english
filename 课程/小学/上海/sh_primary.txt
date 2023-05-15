@@ -392,7 +392,6 @@ hamburger
 hammer
 hand
 happen
-Happy
 happy
 harbour
 hard
@@ -414,7 +413,6 @@ help
 helpful
 hen
 her
-Here
 here
 hers
 hide
@@ -435,7 +433,6 @@ horse
 hot
 hotdog
 hotel
-How
 how
 however
 humming
@@ -617,7 +614,6 @@ old
 on
 one
 onion
-Open
 open
 or
 orange
@@ -845,7 +841,6 @@ son
 soon
 sorry
 soup
-South
 south
 soya
 space
@@ -1077,7 +1072,6 @@ yellow
 yes
 yesterday
 yet
-You
 you
 young
 your
