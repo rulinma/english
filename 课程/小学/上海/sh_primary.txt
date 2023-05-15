@@ -755,7 +755,7 @@ sausage
 say
 scarf
 school
-Science
+science
 scissors
 score
 screwdriver
