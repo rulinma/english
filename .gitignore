@@ -14,7 +14,7 @@
 *.key
 *.pages
 *.sh
-*.py
+# *.py
 *.html
 *.js
 *.css
