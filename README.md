@@ -20,7 +20,7 @@
 
 [Test your English vocabulary](http://testyourvocab.com)
 
-### Vocabulary Build Up
+### 词汇累积计划
 
 #### [1000 Basic English Words](词汇/Corpus of Contemporary American English/README.md)
 
