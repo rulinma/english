@@ -37,7 +37,7 @@
   * [新概念英语第三册](/%E8%AF%BE%E7%A8%8B/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E7%AC%AC%E4%B8%89%E5%86%8C/README.md)
   * [新概念英语第四册](/%E8%AF%BE%E7%A8%8B/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E7%AC%AC%E5%9B%9B%E5%86%8C/README.md)
 
-## 参考文献
+<!-- ## 参考文献
 
 1. [推荐][韦氏在线词典](https://www.merriam-webster.com/dictionary)
 1. [朗文在线词典](https://www.ldoceonline.com/dictionary)
@@ -47,7 +47,7 @@
 1. [推荐][有道](https://dict.youdao.com)
 1. [推荐][词源](https://www.etymonline.com)
 1. [图书][做孩子最好的英语学习规划师](http://product.dangdang.com/28488001.html)
-1. [RAZ Reading](https://literacy.learninga-z.com)
+1. [RAZ Reading](https://literacy.learninga-z.com) -->
 
 ## 赞赏
 
