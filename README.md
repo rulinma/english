@@ -1,6 +1,6 @@
 # 英语学习和实战指南
 
-## 愿景
+## 简介
 
 [马如林](https://about.rulinma.com)结合使用人工智能的方法学习和使用英语的实战指南项目，官方配套软件[AI记单词](https://www.xianglesong.com)，买会员送无限[免费资料](resource.md)，超值。
 
