@@ -10,7 +10,7 @@
 ## 字母表
 
 * [A-a](A.md)
-  * 牛角（古希腊牛角的倒写，古代公牛（ox）的语义，一种说法是牛对农业社会里的古人很重要，所以放在第一位）
+  * 牛角（腓尼基人牛角，古希腊进行倒写，闪米特人的公牛（ox）的意思，总而言之的一种说法是牛对农业社会里的古人很重要，所以放在第一位）
     * angle（角）
     * and（和：牛轭把两头牛连接在一起）
   * 高
@@ -97,4 +97,5 @@
 * [Word Power Made Easy](https://book.douban.com/subject/25977798/)
 * [用23张图，告诉孩子26个英文字母的来历](https://www.sohu.com/a/344937328_120144900)
 * [English alphabet](https://en.wikipedia.org/wiki/English_alphabet)
+* [The Origin of the English Alphabet (and all its 26 letters)](https://www.daytranslations.com/blog/origin-english-alphabet)
 * 从人和物的视角探讨英文中二十六个拉丁字母的象形本源
