@@ -84,3 +84,4 @@
 * [巧妙学单词：从象形到读音](https://book.douban.com/subject/30751225/)
 * [象形5000](https://book.douban.com/subject/25782487/)
 * [Word Power Made Easy](https://book.douban.com/subject/25977798/)
+* 从人和物的视角探讨英文中二十六个拉丁字母的象形本源
