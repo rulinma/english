@@ -3,14 +3,14 @@
 ## 前言
 
 * 首先有大写字母，后才有小写字母。
-* 大写字母主要来自于象形及其衍生意义。
+* 大写字母主要来自于象形及其衍生意义（人类认识事物的一般特征）。
 * 小写字母主要是为了书写方便。
 * 英文字母起源拉丁文字，最初有21个字母，引入了希腊字母Y和Z，从I分离出J，从U分化出V，两个V变成W。
 
 ## 字母表
 
-* [A](A.md)
-  * 牛角（一种说法是牛对农业社会里的古人很重要，所以放在第一位）
+* [A-a](A.md)
+  * 牛角（古希腊牛角的倒写，古代公牛（ox）的语义，一种说法是牛对农业社会里的古人很重要，所以放在第一位）
     * angle（角）
     * and（和：牛轭把两头牛连接在一起）
   * 高
@@ -62,31 +62,31 @@
     * argue（争论）
     * afraid（害怕）
     * 字母A的发音/ei/、/æ/、/a:/、/ɔ:/、/ə/也像是一个人发出的语气词“哎”，“啊”，“哦”等。不定冠词a和an（用来连接后面的元音）也许就是来源于此。
-* [B](B.md)
-* [C](C.md)
-* [D](D.md)
-* [E](E.md)
-* [F](F.md)
-* [G](G.md)
-* [H](H.md)
-* [I](I.md)
-* [J](J.md)
-* [K](K.md)
-* [L](L.md)
-* [M](M.md)
-* [N](N.md)
-* [O](O.md)
-* [P](P.md)
-* [Q](Q.md)
-* [R](R.md)
-* [S](S.md)
-* [T](T.md)
-* [U](U.md)
-* [V](V.md)
-* [W](W.md)
-* [X](X.md)
-* [Y](Y.md)
-* [Z](Z.md)
+* [B-b](B.md)
+* [C-c](C.md)
+* [D-d](D.md)
+* [E-e](E.md)
+* [F-f](F.md)
+* [G-g](G.md)
+* [H-h](H.md)
+* [I-i](I.md)
+* [J-j](J.md)
+* [K-k](K.md)
+* [L-l](L.md)
+* [M-m](M.md)
+* [N-n](N.md)
+* [O-o](O.md)
+* [P-p](P.md)
+* [Q-q](Q.md)
+* [R-r](R.md)
+* [S-s](S.md)
+* [T-t](T.md)
+* [U-u](U.md)
+* [V-v](V.md)
+* [W-w](W.md)
+* [X-x](X.md)
+* [Y-y](Y.md)
+* [Z-z](Z.md)
 
 ## 推荐资料
 
@@ -96,4 +96,5 @@
 * [象形5000](https://book.douban.com/subject/25782487/)
 * [Word Power Made Easy](https://book.douban.com/subject/25977798/)
 * [用23张图，告诉孩子26个英文字母的来历](https://www.sohu.com/a/344937328_120144900)
+* [English alphabet](https://en.wikipedia.org/wiki/English_alphabet)
 * 从人和物的视角探讨英文中二十六个拉丁字母的象形本源
