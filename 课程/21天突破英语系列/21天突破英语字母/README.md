@@ -141,6 +141,16 @@
 * [D-d](D.md)
   * 门（门的象形）
     * door（门）
+    * domain（领域）
+    * domestic（家里的）
+  * 睡觉
+    * dream（睡觉）
+  * 防御
+    * defense（防御）
+  * 抵挡
+    * defeat（击败）
+  * 分开（门分开内外）
+    * divide（分开）
 * [E-e](E.md)
   * 窗户
   * 眼睛
