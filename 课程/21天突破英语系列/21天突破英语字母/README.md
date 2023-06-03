@@ -24,7 +24,7 @@
     * arm（武器：原始人的武器是不是尖棍子）
       * army（军队）
       * armed（武装的）
-    * arrow（弓箭🏹）
+    * arrow（弓箭）
     * arim（瞄准）
     * acid（尖酸刻薄）
     * acute（尖的，敏锐的）
