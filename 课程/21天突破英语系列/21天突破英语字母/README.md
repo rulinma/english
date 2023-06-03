@@ -63,36 +63,76 @@
     * afraid（害怕）
     * 字母A的发音/ei/、/æ/、/a:/、/ɔ:/、/ə/也像是一个人发出的语气词“哎”，“啊”，“哦”等。不定冠词a和an（用来连接后面的元音）也许就是来源于此。
 * [B-b](B.md)
+  * 房屋（有门，屋顶的房子，B在字母表中之所以排在第二位也许是因为对人类的生存来说住的重要性仅次于衣食）
+  * 孕妇
+    * born
 * [C-c](C.md)
+  * 骆驼（）
 * [D-d](D.md)
+  * 门（）
+    * door（门）
 * [E-e](E.md)
+  * 窗户
+  * 眼睛
 * [F-f](F.md)
+  * 飞（鸟飞行的形状变化）
+    * fly
+  * 分叉（形状上有分叉）
+    * fork（刀叉的叉子）
+    * finger（手指）
+    * foot（脚）
 * [G-g](G.md)
+  * C的编写
 * [H-h](H.md)
+  * 梯子
 * [I-i](I.md)
+  * 人
 * [J-j](J.md)
+  * I的变形
 * [K-k](K.md)
+  * 手掌
 * [L-l](L.md)
+  * 鞭子
 * [M-m](M.md)
+  * 水
 * [N-n](N.md)
+  * 鼻子
 * [O-o](O.md)
+  * 眼睛
+  * 嘴
 * [P-p](P.md)
+  * 嘴
 * [Q-q](Q.md)
+  * 尾巴
 * [R-r](R.md)
+  * 太阳
+  * 头
 * [S-s](S.md)
+  * 蛇形
+  * 神圣
+  * 崇拜
 * [T-t](T.md)
+  * 神
+  * 记号
 * [U-u](U.md)
+  * 山谷
 * [V-v](V.md)
+  * U的变换
 * [W-w](W.md)
+  * 2个V
 * [X-x](X.md)
+  * 记号
 * [Y-y](Y.md)
+  * 分叉
 * [Z-z](Z.md)
+  * 神秘
 
 ## 参考资料
 
 * [AI记单词](https://www.xianglesong.com)
 * [象形记单词](https://book.douban.com/subject/10529960/)
 * [巧妙学单词：从象形到读音](https://book.douban.com/subject/30751225/)
+* [象形英文](http://product.dangdang.com/23507973.html)
 * [象形5000](https://book.douban.com/subject/25782487/)
 * [Word Power Made Easy](https://book.douban.com/subject/25977798/)
 * [用23张图，告诉孩子26个英文字母的来历](https://www.sohu.com/a/344937328_120144900)
