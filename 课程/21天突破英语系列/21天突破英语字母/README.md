@@ -105,6 +105,39 @@
 * [C-c](C.md)
   * 骆驼（骆驼的驼峰象形，半圆形）
     * camel（骆驼）
+  * C形物（镰刀，刀型工具）
+    * cut（切）
+    * chop（砍）
+    * carve（雕刻）
+  * 破碎
+    * crash（坠毁）
+    * clash（撞击）
+    * crack（破裂声）
+  * 分类
+    * class（分类）
+    * category（种类）
+  * 圆
+    * circle（圆形）
+    * coil（绕圈）
+    * collar（衣领）
+    * curve（弯曲）
+    * cycle（循环，周期）
+    * cylinder（圆柱体）
+  * 口
+    * cry（哭）
+    * call（喊）
+    * cough（咳嗽）
+    * chat（聊天）
+  * C通K（手掌的意思）
+    * claw（爪子）
+    * catch（抓住）
+    * control（控制）
+    * carry（拿）
+    * capture（捕获）
+    * clap（鼓掌）
+    * collect（收集）
+    * cover（覆盖，用手捂住）
+    * currency（现金）
 * [D-d](D.md)
   * 门（门的象形）
     * door（门）
