@@ -88,7 +88,7 @@
 * [Y-y](Y.md)
 * [Z-z](Z.md)
 
-## 推荐资料
+## 参考资料
 
 * [AI记单词](https://www.xianglesong.com)
 * [象形记单词](https://book.douban.com/subject/10529960/)
@@ -98,4 +98,5 @@
 * [用23张图，告诉孩子26个英文字母的来历](https://www.sohu.com/a/344937328_120144900)
 * [English alphabet](https://en.wikipedia.org/wiki/English_alphabet)
 * [The Origin of the English Alphabet (and all its 26 letters)](https://www.daytranslations.com/blog/origin-english-alphabet)
+* [字母的歷史](https://zh.wikipedia.org/wiki/%E5%AD%97%E6%AF%8D%E7%9A%84%E6%AD%B7%E5%8F%B2)
 * 从人和物的视角探讨英文中二十六个拉丁字母的象形本源
