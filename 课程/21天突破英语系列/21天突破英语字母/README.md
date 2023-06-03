@@ -168,18 +168,66 @@
     * drip（滴下）
     * deep（深处）
 * [E-e](E.md)
-  * 窗户
+  * 象形举起双手的人
+    * excite（激动）
+    * exult（欢腾）
+  * 祈祷
+    * eternity（永生）
+  * 公正
+    * equity（公平）
   * 眼睛
+    * eye（眼睛）
+    * meet（遇见）
+    * peek（偷看）
+    * see（看见）
+    * seek（寻找）
+    * seem（看起来）
+    * sleep（睡觉）
+  * 椭圆（小写字母象形）
+    * egg（蛋）
+    * ellipse（椭圆）
+    * eclipse（日蚀、月食）
 * [F-f](F.md)
+  * 权杖
+    * fight（战斗）
+  * 神权和生命
+    * female（女性）
+    * life（生命）
   * 飞（鸟飞行的形状变化）
-    * fly
+    * fly（飞）
+    * float（漂浮）
+    * feather（羽毛）
+    * fur（皮毛）
   * 分叉（形状上有分叉）
     * fork（刀叉的叉子）
     * finger（手指）
     * foot（脚）
-  * F的发音和我们飞的发音接近，应该是人类文明的融合
+  * 风吹动的植物，发音和汉语的风接近，应该是人类文明的融合
+    * fruit（水果）
+    * flower（花）
+    * forest（森林）
+  * F的发音和汉语飞的发音接近，应该是人类文明的融合
 * [G-g](G.md)
-  * C的变形
+  * C的变形，目的是区分[g]和[k]的发音
+  * 土地
+    * geography（地理学）
+    * ground（地面）
+    * groundless（无根据的）
+    * geology（地质学）
+    * gravity（重力）
+  * 生育
+    * gene（基因）
+    * grow（生长）
+  * 伟大
+    * great（伟大）
+    * giant（巨大）
+    * grand（伟大的）
+    * grandma（祖母）
+    * grandpa（祖父）
+  * C、G、K、Q的相互借用，某些G从K而来
+    * grab（攫取）
+    * grasp（紧握）
+    * give（给）
 * [H-h](H.md)
   * 梯子
 * [I-i](I.md)
