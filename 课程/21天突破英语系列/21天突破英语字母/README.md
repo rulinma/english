@@ -28,23 +28,32 @@
     * acid（尖酸刻薄）
     * acute（尖的，敏锐的）
     * acupuncture（针灸）
-  * 第一、重要、开始
+  * 第一
     * alphabet（字母表）
+  * 重要
     * ability（能力）
     * administrator（管理者）
+  * 开始
     * ancestor（祖先）
-    * all（所有）
-  * 反对、否定、后退、削弱、攻击（两个牛角相抵）
+  * 反对（两个牛角相抵）
     * against（反对）
-    * angry（生气）
+  * 否定（两个牛角相抵）
     * anarchy（无政府状态）
     * atheism（无神论）
     * argue（争辩）
+  * 后退（两个牛角相抵）
     * aback（向后）
     * abort（退出）
+  * 削弱（两个牛角相抵）
     * abate（减弱）
     * abbreviate（缩写）
+  * 攻击（两个牛角相抵）
+    * angry（生气）
     * attack（攻击）
+  * 弧度（牛角弯曲状）
+    * arc（弧度）
+    * arch（拱形）
+    * archer（弓箭手）
   * 人（另一种说法就是类似于人的形状，表示人，代表最基本的活动和情绪等）
     * adult（成年人）
     * act（行动）
