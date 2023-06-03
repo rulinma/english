@@ -9,6 +9,49 @@
 ## 字母表
 
 * [A](A.md)
+  * 牛角（一种说法是牛对农业社会里的古人很重要，所以放在第一位）
+    * angle（角）
+    * and（和：牛轭把两头牛连接在一起）
+  * 高
+    * air（空气）
+    * Alps（阿尔卑斯山，欧洲最高山）
+    * altitude（高度，海拔）
+    * astronaut（宇航员）
+    * areoplane（飞机）
+    * astrology（占星术，占星学）
+  * 尖
+    * arm（武器：原始人的武器是不是尖棍子）
+      * army（军队）
+      * armed（武装的）
+    * arrow（弓箭🏹）
+    * arim（瞄准）
+    * acid（尖酸刻薄）
+    * acute（尖的，敏锐的）
+    * acupuncture（针灸）
+  * 第一、重要、开始
+    * alphabet（字母表）
+    * ability（能力）
+    * administrator（管理者）
+    * ancestor（祖先）
+    * all（所有）
+  * 反对、否定、后退、削弱、攻击（两个牛角相抵）
+    * against（反对）
+    * angry（生气）
+    * anarchy（无政府状态）
+    * atheism（无神论）
+    * argue（争辩）
+    * aback（向后）
+    * abort（退出）
+    * abate（减弱）
+    * abbreviate（缩写）
+    * attack（攻击）
+  * 人（另一种说法就是类似于人的形状，表示人，代表最基本的活动和情绪等）
+    * adult（成年人）
+    * act（行动）
+    * agree（同意）
+    * argue（争论）
+    * afraid（害怕）
+    * 字母A的发音/ei/、/æ/、/a:/、/ɔ:/、/ə/也像是一个人发出的语气词“哎”，“啊”，“哦”等。不定冠词a也许就是来源于此吧。
 * [B](B.md)
 * [C](C.md)
 * [D](D.md)
