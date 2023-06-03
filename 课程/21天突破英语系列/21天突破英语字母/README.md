@@ -18,7 +18,7 @@
     * Alps（阿尔卑斯山，欧洲最高山）
     * altitude（高度，海拔）
     * astronaut（宇航员）
-    * areoplane（飞机）
+    * aeroplane（飞机）
     * astrology（占星术，占星学）
   * 尖
     * arm（武器：原始人的武器是不是尖棍子）
