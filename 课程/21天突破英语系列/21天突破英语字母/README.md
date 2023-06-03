@@ -230,10 +230,28 @@
     * give（给）
 * [H-h](H.md)
   * 梯子
+    * heaven（天堂）
+  * 篱笆
+    * home（家）
+    * house（房屋）
+    * hedge（矮篱笆）
+    * hotel（酒店）
 * [I-i](I.md)
   * 人
+    * I（我）
+    * identity（身份）
+    * identify（识别）
+  * 火苗
+    * ignite（着火，点燃）
 * [J-j](J.md)
   * I的变形
+  * 钩子
+    * join（连接，加入）
+  * 滴水（j上面的水连续下滴）
+    * jar（罐子）
+    * juice（果汁）
+  * J行
+    * jump（跳）
 * [K-k](K.md)
   * 手掌
 * [L-l](L.md)
