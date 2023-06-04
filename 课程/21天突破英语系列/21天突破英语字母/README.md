@@ -441,12 +441,50 @@
 * [U-u](U.md)
   * 下面
     * under（下面）
+  * 相反，否定（u和n方向相反）
+    * unable（不能的）
+  * 万物，归一，统一
+    * universe（宇宙）
+    * unique（独一无二的）
+    * uniform（全部相同的）
+    * unit（单元）
 * [V-v](V.md)
   * U的变换
-  * valley（山谷）
+  * 山谷
+    * valley（山谷）
+  * 容器
+    * vessel（容器）
+    * vail（药水瓶）
+    * vat（大桶）
+  * 倒空，出空
+    * vacation（假期）
+    * vacuum（真空）
+    * vain（空虚的）
+  * 变化
+    * variable（变量）
+    * vary（改变）
+    * versatile（多方面的）
+    * very（非常）
+  * V字形
+    * vector（向量，矢量）
+    * velocity（速度）
 * [W-w](W.md)
+  * 水波纹
+    * water（水）
+    * wave（波）
+  * 疑问
+    * who（谁）
+    * whom（谁）
+    * whose（谁的）
+    * what（什么）
+    * when（何时）
+    * where（哪里）
+    * why（为什么）
+    * which（哪一个）
   * 2个V
     * win（赢）
+  * W形
+    * saw（锯）
 * [X-x](X.md)
   * 记号
 * [Y-y](Y.md)
