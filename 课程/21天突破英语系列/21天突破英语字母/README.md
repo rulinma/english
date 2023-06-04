@@ -398,6 +398,7 @@
     * ray（光线）
     * radial（放射的）
     * radius（半径）
+    * repeat（重复）
   * 跑步的人
     * run（跑）
 * [S-s](S.md)
