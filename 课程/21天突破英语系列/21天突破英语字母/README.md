@@ -353,7 +353,26 @@
     * next（接下来）
 * [O-o](O.md)
   * 眼睛
+    * observe（观察）
+    * obvious（显而易见的）
+    * look（看）
+    * outlook（观点，看法）
   * 嘴
+    * mouth（嘴）
+  * 光学
+    * optics（光学）
+    * optical（光学的、眼镜的）
+  * O形
+    * hole（洞）
+    * obesity（肥胖）
+    * oblong（椭圆形）
+    * oblate（扁圆的）
+    * open（开）
+    * close（关）
+    * moon（月亮）
+    * loop（循环）
+    * coil（线圈）
+    * dot（点）
 * [P-p](P.md)
   * 嘴
 * [Q-q](Q.md)
