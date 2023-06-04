@@ -294,6 +294,39 @@
     * live（活着）
 * [M-m](M.md)
   * 水
+    * marine（海的）
+    * moisture（潮湿）
+    * marish（沼泽）
+    * mercury（水银）
+    * milk（牛奶）
+    * mud（泥浆）
+    * mobile（流动）
+  * 壮观、强大
+    * magnificent（壮观的）
+    * mighty（强大的）
+    * magic（魔力的）
+    * marvel（奇迹）
+    * miracle（奇迹）
+    * mad（疯狂的）
+    * manic（狂躁的）
+  * 数量、多少
+    * many（许多的）
+    * much（许多的）
+    * massive（大量的）
+    * most（最多）
+  * 度量
+    * measure（度量）
+    * metric（公制的）
+    * millionaire（百万富翁）
+  * 女性（母亲的胸部象形）
+    * mother（母亲）
+    * mum（母亲）
+    * Miss（小姐）
+    * madam（夫人）
+    * maiden（姑娘）
+  * 中间的意思
+    * middle（中间）
+    * midnight（午夜）
 * [N-n](N.md)
   * 鼻子
 * [O-o](O.md)
