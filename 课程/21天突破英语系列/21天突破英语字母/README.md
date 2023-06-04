@@ -510,6 +510,9 @@
     * zest（热情，光热）
     * zealous（充满激情的）
     * zeal（热情）
+  * Z形
+    * zigzag（Z行的）
+    * zip/zipper（拉链）
 
 ## 总结
 
