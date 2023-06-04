@@ -521,6 +521,19 @@
   * 分叉（从三衍生）
     * tree（树）
     * tribe（部落）
+  * 方向（T指示方向）
+    * to（到，向...）
+  * 高（T上面的一横表示高）
+    * top（顶部）
+    * tall（高）
+    * tower（塔）
+    * table（桌子）
+  * 连接
+    * next（下一个）
+    * net（网）
+    * connect（连接）
+    * twin（双胞胎）
+    * two（二）
 * [U-u](U.md)
   * 下面
     * under（下面）
@@ -531,6 +544,10 @@
     * unique（独一无二的）
     * uniform（全部相同的）
     * unit（单元）
+  * 容器
+    * bucket（桶）
+    * cube（立方体）
+    * cup（杯子）
 * [V-v](V.md)
   * U的变换
   * 山谷
@@ -552,9 +569,19 @@
     * vector（向量，矢量）
     * velocity（速度）
 * [W-w](W.md)
-  * 水波纹
+  * 水
     * water（水）
     * wave（波）
+    * wash（洗）
+    * wax（蜡）
+  * 波纹
+    * web（网络）
+    * wind（风）
+  * 曲折
+    * way（路）
+    * walk（走路）
+    * wander（漫游）
+    * wheel（轮）
   * 疑问
     * who（谁）
     * whom（谁）
@@ -569,11 +596,18 @@
   * W形
     * saw（锯）
 * [X-x](X.md)
-  * X形，记号，未知数
+  * X形
+    * axe（斧子）
+    * tax（税）
+    * fix（修理）
+  * 未知数
+    * X-ray（X射线）
   * 混合
     * mix（混合）
   * 复杂
     * complex（复杂）
+  * 分叉
+    * exit（退出，出口）
 * [Y-y](Y.md)
   * 分叉
     * yoke（牛轭）
