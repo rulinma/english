@@ -417,19 +417,43 @@
     * stem（树干、茎）
 * [T-t](T.md)
   * 神
-  * 记号
+    * throne（权杖，王位）
+    * theology（神学）
+  * T形，标记
+    * tee（T形物）
+    * tag（标记）
+  * 十字
+    * table（表格）
+  * 传输
+    * transfer（传输）
+    * traffic（交通）
+    * traverse（横贯）
+    * transmit（传输）
+    * transport（运输）
+  * 三（左，右，下三个部分象形）
+    * triangle（三角形）
+  * 分叉（从三衍生）
+    * tree（树）
+    * tribe（部落）
 * [U-u](U.md)
-  * 山谷
+  * 下面
+    * under（下面）
 * [V-v](V.md)
   * U的变换
+  * valley（山谷）
 * [W-w](W.md)
   * 2个V
+    * win（赢）
 * [X-x](X.md)
   * 记号
 * [Y-y](Y.md)
   * 分叉
+    * you（你）
+    * young（幼小的，年轻的）
+    * youth（青少年）
 * [Z-z](Z.md)
   * 神秘
+    * Zeus（宙斯，希腊的万神之王）
 
 ## 总结
 
