@@ -611,18 +611,21 @@
 * [Y-y](Y.md)
   * 分叉
     * yoke（牛轭）
-    * you（你）
-    * young（幼小的，年轻的）
-    * youth（青少年）
     * by（旁）
     * bypass（绕路）
     * byway（旁道）
-  * 植物（地上长得植物象形）
+  * 幼苗状
+    * you（你）
+    * young（幼小的，年轻的）
+    * youth（青少年）
     * yellow（稻子成熟了颜色就是黄色）
     * yield（出产）
 * [Z-z](Z.md)
   * 神秘
     * Zeus（宙斯，希腊的万神之王）
+    * maze（迷宫）
+    * amaze（惊奇）
+    * puzzle（迷）
   * 闪电象形及衍生
     * zest（热情，光热）
     * zealous（充满激情的）
@@ -630,6 +633,7 @@
   * Z形
     * zigzag（Z行的）
     * zip/zipper（拉链）
+    * zebra（斑马）
 
 ## 总结
 
