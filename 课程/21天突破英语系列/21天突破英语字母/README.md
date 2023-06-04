@@ -374,16 +374,47 @@
     * coil（线圈）
     * dot（点）
 * [P-p](P.md)
+  * 站着的人
+    * people（人）
+    * public（公共的）
   * 嘴
+    * phone（电话）
+    * play（戏剧）
+    * proclaim（宣告）
+    * party（聚会）
+  * 纸（嘴的延伸）
+    * paper（纸）
+    * picture（图）
+    * print（打印）
 * [Q-q](Q.md)
-  * 尾巴
+  * 疑问
+    * question（疑问）
+    * query（询问）
 * [R-r](R.md)
-  * 太阳
-  * 头
+  * 太阳（我们普通话日的发音就是这个，古埃及也用R表示太阳和太阳神）
+    * round（圆形的）
+    * roll（滚动）
+    * rotate（旋转）
+    * ray（光线）
+    * radial（放射的）
+    * radius（半径）
+  * 跑步的人
+    * run（跑）
 * [S-s](S.md)
-  * 蛇形
-  * 神圣
-  * 崇拜
+  * 蛇形（埃及语系）
+    * snake（蛇）
+  * 光滑
+    * smooth（光滑）
+  * 神圣（巫师的权杖一般有蛇形图案）
+    * sin（罪恶）
+    * sacred（圣神的）
+    * saint（圣者）
+    * spirit（精神）
+  * 脊椎骨（迦南符号系统）
+    * skeleton（骨架）
+    * spine（脊柱）
+    * stable（稳定的）
+    * stem（树干、茎）
 * [T-t](T.md)
   * 神
   * 记号
