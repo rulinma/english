@@ -424,6 +424,9 @@
     * tag（标记）
   * 十字
     * table（表格）
+    * ten（十）
+    * teenage（十几岁的）
+    * tenfold（十倍的）
   * 传输
     * transfer（传输）
     * traffic（交通）
