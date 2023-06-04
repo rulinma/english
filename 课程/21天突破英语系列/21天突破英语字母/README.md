@@ -243,6 +243,8 @@
     * identify（识别）
   * 火苗
     * ignite（着火，点燃）
+  * 水滴
+    * ink（墨水）
 * [J-j](J.md)
   * I的变形
   * 钩子
@@ -250,12 +252,43 @@
   * 滴水（j上面的水连续下滴）
     * jar（罐子）
     * juice（果汁）
-  * J行
+  * J形状
     * jump（跳）
+  * 水滴
+    * job（慢慢来钱像水滴落下）
+    * jet（喷射）
+  * Jupiter（木星，神，主管法律和秩序，幸运之神）
+    * joy（高兴）
+    * judge（发光）
+    * just（刚刚好）
+    * justify（正当的）
 * [K-k](K.md)
-  * 手掌
+  * 手掌（象形）
+    * keep（保持）
+    * knob（球形把手，门把手）
+    * knock（敲门）
+    * knife（小刀）
+    * kill（杀）
+    * keen（锋利的）
 * [L-l](L.md)
-  * 鞭子
+  * 鞭子、权杖
+    * lash（鞭打）
+    * lord（主人）
+    * let（让）
+  * 引导、带领
+    * lead（引领）
+    * leader（领导）
+    * lesson（课程）
+  * L形
+    * leg（腿）
+    * lever（杠杠）
+    * level（水平）
+    * line（线）
+    * long（长）
+    * longitude（经线）
+    * lace（鞋带）
+    * lie（躺平）
+    * light（光线）
 * [M-m](M.md)
   * 水
 * [N-n](N.md)
