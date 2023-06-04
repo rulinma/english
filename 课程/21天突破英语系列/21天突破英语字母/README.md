@@ -330,10 +330,14 @@
     * hedge（矮篱笆）
     * hotel（酒店）
 * [I-i](I.md)
-  * 人
+  * 人（站立的人或思考的人）
     * I（我）
     * identity（身份）
     * identify（识别）
+    * idea（思想）
+    * idol（偶像）
+    * ill（有病的）
+    * idle（懒惰的）
   * 火苗
     * ignite（着火，点燃）
   * 水
@@ -345,7 +349,7 @@
     * milk（牛奶）
     * fish（鱼）
 * [J-j](J.md)
-  * I的变形
+  * I的变形（I思考的人，J实战的人，多了个脚）
   * 钩子，连接
     * join（连接，加入）
     * junction（连接，汇合处）
@@ -354,6 +358,8 @@
     * juice（果汁）
   * J形状
     * jump（跳）
+    * jogging（慢跑）
+    * jiggle（抖动）
   * 水滴
     * job（慢慢来钱像水滴落下）
     * jet（喷射）
