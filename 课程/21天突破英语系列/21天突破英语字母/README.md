@@ -215,22 +215,46 @@
     * groundless（无根据的）
     * geology（地质学）
     * gravity（重力）
+  * 胚胎的形状
+    * egg（鸡蛋）
+    * pig（猪）
+    * frog（青蛙）
+    * tiger（老虎）
+    * big（大）
   * 生育
     * gene（基因）
     * grow（生长）
+    * age（年龄）
   * 伟大
     * great（伟大）
     * giant（巨大）
     * grand（伟大的）
     * grandma（祖母）
     * grandpa（祖父）
+  * 门口（C的房子，多个门槛）
+    * gate（门口）
   * C、G、K、Q的相互借用，某些G从K而来
     * grab（攫取）
     * grasp（紧握）
     * give（给）
+  * 普通话勾的发音，衍生出手指
+    * get（获得）
+    * grab（抓取）
+    * glove（手套）
+    * gun（枪）
+    * dig（挖）
+    * finger（手指）
 * [H-h](H.md)
   * 梯子
+    * high（高）
+    * height（高）
+    * hill（山）
+    * heap（堆）
     * heaven（天堂）
+    * hang（悬挂）
+    * hall（大厅，礼堂）
+    * hot（热）
+    * heat（加热）
   * 篱笆
     * home（家）
     * house（房屋）
@@ -243,12 +267,19 @@
     * identify（识别）
   * 火苗
     * ignite（着火，点燃）
-  * 水滴
+  * 水
     * ink（墨水）
+    * ice（冰）
+    * liquid（液体）
+    * juice（果汁）
+    * oil（油）
+    * milk（牛奶）
+    * fish（鱼）
 * [J-j](J.md)
   * I的变形
-  * 钩子
+  * 钩子，连接
     * join（连接，加入）
+    * junction（连接，汇合处）
   * 滴水（j上面的水连续下滴）
     * jar（罐子）
     * juice（果汁）
@@ -270,6 +301,12 @@
     * knife（小刀）
     * kill（杀）
     * keen（锋利的）
+  * 打结
+    * knot（打结）
+    * knit（连接，编织）
+  * 掌控
+    * king（国王）
+    * kingdom（王国）
 * [L-l](L.md)
   * 鞭子、权杖
     * lash（鞭打）
@@ -285,6 +322,7 @@
     * lever（杠杠）
     * level（水平）
     * line（线）
+    * list（列表）
     * long（长）
     * longitude（经线）
     * lace（鞋带）
@@ -327,6 +365,13 @@
   * 中间的意思
     * middle（中间）
     * midnight（午夜）
+  * 山
+    * mount（山）
+    * mountain（山）
+  * 移动（飞鸟震动翅膀）
+    * move（移动）
+    * migrant（候鸟，移民）
+    * migrate（迁移）
 * [N-n](N.md)
   * 鼻子（2个竖线和上面1个横线，类似脸上连在一起的2个鼻孔）
     * nose（鼻子）
@@ -351,6 +396,12 @@
     * neighbor（邻居）
     * near（附近）
     * next（接下来）
+  * 门形
+    * in（在...内）
+    * inn（小旅馆）
+  * 高（中间的一横表义）
+    * on（在...上）
+    * sun（太阳）
 * [O-o](O.md)
   * 眼睛
     * observe（观察）
@@ -362,7 +413,7 @@
   * 光学
     * optics（光学）
     * optical（光学的、眼镜的）
-  * O形
+  * O形（圆形）
     * hole（洞）
     * obesity（肥胖）
     * oblong（椭圆形）
@@ -386,10 +437,19 @@
     * paper（纸）
     * picture（图）
     * print（打印）
+  * 尖状
+    * pin（针）
+    * peak（山峰）
+    * point（要点）
+  * 普通话发音平
+    * plain（平原）
 * [Q-q](Q.md)
   * 疑问
     * question（疑问）
     * query（询问）
+  * 方形
+    * square（正方形）
+    * quarter（四分之一）
 * [R-r](R.md)
   * 太阳（我们普通话日的发音就是这个，古埃及也用R表示太阳和太阳神）
     * round（圆形的）
@@ -401,6 +461,19 @@
     * repeat（重复）
   * 跑步的人
     * run（跑）
+    * rush（冲，奔跑）
+    * rabbit（兔子）
+    * road（路）
+  * 植物发芽的形状
+    * rose（玫瑰）
+    * grass（草）
+    * tree（树）
+  * 口
+    * read（读）
+    * reading（阅读）
+    * roar（咆哮）
+    * rumour（谣言）
+    * rap（说唱）
 * [S-s](S.md)
   * 蛇形（埃及语系）
     * snake（蛇）
@@ -416,6 +489,15 @@
     * spine（脊柱）
     * stable（稳定的）
     * stem（树干、茎）
+  * S形
+    * she（她）
+    * sister（姐妹）
+  * 摇摆
+    * swim（游泳）
+    * swing（摆动，摇荡）
+    * sway（摇摆）
+  * 声音
+    * sound（听见）
 * [T-t](T.md)
   * 神
     * throne（权杖，王位）
@@ -522,6 +604,7 @@
 * 形状意义
 * 衍生意义
 * 字母相互替换
+* 普通话音义解释
 
 ## 参考资料
 
