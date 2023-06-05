@@ -24,7 +24,7 @@
 ## 语法
 
 * 剑桥英语语法
-  * Essentinal Grammar in Use
+  * Essential Grammar in Use
   * English Grammar in Use
   * Advanced Grammar in Use
 
