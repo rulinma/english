@@ -267,38 +267,87 @@
     * China（中国）
     * china（瓷器）
 * [D-d](D.md)
-  * 门（门的象形）
+  * 门（门的象形，把D逆时针旋转90度，就是门的形状；也说公元前800年腓尼基人的初始写法是一个朝左的三角形，后来希腊用delta命名，再后来罗马人把右边变成半圆形）
+    * do（房子里有张嘴，需要做事才可以活下来，或者表示能做事）
     * door（门）
     * domain（领域）
     * domestic（家里的）
+  * 家里的人、物、事等（从门衍生）
+    * dad（爸爸）
+    * daddy（爸爸）
+    * dog（狗）
+    * duck（鸭子）
+    * deer（鹿）
+    * desk（桌子）
+    * diner（晚餐）
+    * deck（甲板，舱面；装上甲板，装饰）
+    * decorate（装饰）
+    * decoration（装饰品）
+    * dress（服装；穿着）
+    * dance（跳舞）
+    * dust（灰尘）
+    * dirty（肮脏的，弄脏，变脏）
+    * dig（挖掘）
+    * dead（死亡）
+    * death（死亡）
+    * dying（垂死的）
   * 睡觉
     * dream（睡觉）
-  * 防御
+    * dormant（冬眠的）
+    * doze（打瞌睡）
+    * doss（睡觉，过夜）
+    * drowse（瞌睡）
+  * 武器、防御、抵挡（三角形的武器衍生出武器、防御等意思）
     * defense（防御）
-  * 抵挡
+    * defend（防守，保卫）
+    * dart（飞镖）
+    * dagger（匕首，短剑）
+    * debate（争辩）
     * defeat（击败）
   * 分开（门分开内外）
     * divide（分开）
   * 三角形
     * delta（三角形物）
-  * 半圆形
+  * 半圆形、圆形
     * day（圆形的太阳和月亮）
     * diary（每天的）
     * dark（黑暗）
+    * darkness（黑暗）
     * dawn（黎明，破晓）
-  * 圆形
+    * dull（阴暗的，迟钝的，单调乏味的）
+    * daily（每天的；日报）
+    * dial（拨打电话（电话的圆盘象形））
     * dish（盘子）
     * disk（磁盘，唱片）
+    * disc（圆盘，光盘）
+    * disco（迪斯科（上面营造气氛的发光球不断滚动））
     * dot（圆点）
+    * dollar（元（硬币的象形））
+    * drum（鼓（鼓面的象形））
+    * dumpling（饺子（半圆形的象形））
+    * den（洞穴）
   * 死亡（古埃及字母D的本源是坟墓，与死亡有关。）
     * dead（死亡）
     * danger（危险）
     * dread（恐惧）
   * D的发音汉语有低的意思
     * down（向下）
-    * drop（丢下）
+    * drop（滴，落下；丢失）
     * drip（滴下）
     * deep（深处）
+    * depth（深度，深处，深奥）
+  * D的发音汉语有抵的意思，衍生抵抗，否定，不好
+    * deny（否定）
+    * disadvantage（不利）
+    * disagree（不同意）
+    * disapprove（不同意）
+    * disband（解散）
+    * disclaim（否认）
+    * disaster（灾难）
+    * disease（疾病）
+  * 十二
+    * dozen（十二）
+    * december（十二月）
 * [E-e](E.md)
   * 象形举起双手的人
     * excite（激动）
