@@ -596,7 +596,10 @@
     * idol（偶像）
     * ill（有病的）
     * idle（懒惰的，空闲的）
-    * image（想象）
+    * image（想象；影像；形象）
+    * images（图像；影像；肖像；想象）
+    * imagery（意向；比喻）
+    * imaged（想象；反映；象征）
     * icon（画像，肖像，图标）
   * 火苗
     * ignite（着火，点燃）
