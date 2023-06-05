@@ -637,25 +637,42 @@
     * linked（有联系）
     * timeline（时间线）
 * [J-j](J.md)
-  * I的变形（I思考的人，J实战的人，多了个脚）
+  * I的变形（I思考的人，J实战的人，J比I多了个脚），也有说木杖或蛇形象形。
   * 钩子，连接
     * join（连接，加入）
+    * joint（连接处, 接合；共同的, 联合的, 连接的, 合办的）
     * junction（连接，汇合处）
   * 滴水（j上面的水连续下滴）
     * jar（罐子）
+    * jam（果酱）
     * juice（果汁）
-  * J形状
+    * juicy（多汁的，多水分的）
+    * jelly（果冻；成胶状；使结冻）
+    * jug（水壶）
+  * J形状，突出
     * jump（跳）
     * jogging（慢跑）
     * jiggle（抖动）
+    * jut（尖端，突出部分）
+    * jab（刺, 戳, 猛击）
   * 水滴
     * job（慢慢来钱像水滴落下）
     * jet（喷射）
   * Jupiter（木星，神，主管法律和秩序，幸运之神）
     * joy（高兴）
-    * judge（发光）
+    * joyful（高兴）
+    * jolly（快活动，令人高兴的）
+    * joke（笑话）
+    * judge（法官）
+    * juror（陪审员）
     * just（刚刚好）
+    * justly（应得的，公正的）
     * justify（正当的）
+  * J和Y有一定程度互换
+    * juvenile（少年的，同young（少年的））
+    * junior（年幼的，初级的）
+  * 音译
+    * jeep（吉普车）
 * [K-k](K.md)
   * 手掌（象形）
     * keep（保持）
