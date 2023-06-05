@@ -345,9 +345,20 @@
     * disclaim（否认）
     * disaster（灾难）
     * disease（疾病）
+  * D的发音汉语有多的意思
+    * double（双的）
+    * dual（双的）
+    * dialogue（对话）
+    * duplicate（复制）
+    * diversify（多样性）
+    * different（不同的）
   * 十二
     * dozen（十二）
     * december（十二月）
+  * 十
+    * decade（十年）
+    * decimal（十进制的）
+    * decimeter（分米）
 * [E-e](E.md)
   * 象形举起双手的人
     * excite（激动）
