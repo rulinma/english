@@ -525,24 +525,67 @@
     * digit（手指，脚趾；数字）
     * hang（挂，悬挂）
 * [H-h](H.md)
-  * 梯子
+  * 梯子或篱笆的象形，衍生出安居，小屋，高等意义
+  * 梯子，高
     * high（高）
     * height（高）
     * hill（山）
     * heap（堆）
-    * heaven（天堂）
     * hang（悬挂）
     * hall（大厅，礼堂）
     * hot（热）
     * heat（加热）
+    * heater（加热器）
+  * 神（神在天上或地狱）
+    * heaven（天堂）
     * holy（神圣的）
-    * hope（希望）
     * harm（伤害）
+  * 站立的人
+    * he（高的人）
+    * his（他的）
+    * her（她的）
+    * him（他）
+    * hear（听见）
+    * hand（手（人手拉手））
+    * heard（头）
+    * human（人，人类）
+    * heart（心）
+    * hair（头发）
+    * hit（打）
+    * hope（希望）
+    * happy（高兴）
+    * hero（英雄）
+    * hi（喂）
+    * hello（喂）
+    * hip（臀部）
+    * horn（角，号角）
+    * hug（拥抱）
+    * ha（哈，哈哈）
   * 篱笆
+    * hedge（矮篱笆）
+    * hinder（阻碍，妨碍）
+    * hijack（抢劫）
+    * hamper（阻碍，妨碍）
+  * 家
     * home（家）
     * house（房屋）
-    * hedge（矮篱笆）
+    * household（家庭）
+    * husband（丈夫）
+    * habit（习惯）
+    * habitat（栖息地，生活环境）
+    * harbor（避难所）
+    * haven（安全地，避难所）
     * hotel（酒店）
+    * hide（隐藏）
+    * halt（停止）
+  * wh通h，表示疑问（天上是什么）
+    * who（谁）
+    * whose（谁的）
+    * which（哪一个）
+    * why（为什么）
+    * what（什么）
+    * when（什么时候）
+    * where（哪里）
 * [I-i](I.md)
   * 人（站立的人或思考的人）
     * I（我）
