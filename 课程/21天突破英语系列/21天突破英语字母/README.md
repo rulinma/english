@@ -675,19 +675,42 @@
   * 音译
     * jeep（吉普车）
 * [K-k](K.md)
+  * 手的象形，衍生掌控，连接等意义，后来也有C、G、K和Q相互替换的衍生意义
   * 手掌（象形）
-    * keep（保持）
+    * keep（生计, 维持, 保持）
     * knob（球形把手，门把手）
     * knock（敲门）
     * knife（小刀）
     * kill（杀）
     * keen（锋利的）
-  * 打结
-    * knot（打结）
-    * knit（连接，编织）
+    * key（药匙）
+    * kit（工具箱，装备，成套工具）
+    * kite（风筝）
+  * 打结，连接
+    * knot（打结；纠缠）
+    * knit（编织, 结合）
+    * knee（膝盖）
+    * kiss（吻；接吻）
   * 掌控
+    * know（知道；认识；懂得；了解；熟悉；确信）
     * king（国王）
     * kingdom（王国）
+    * knife（小刀，匕首）
+  * C、G、K、Q的相互替换
+    * control（控制）
+    * catch（抓住）
+    * capture（抓获）
+    * claw（爪）
+    * carry（拿，运送）
+    * clap（鼓掌）
+    * clasp（握紧）
+    * collect（收集）
+    * cover（覆盖）
+    * give（给）
+    * grasp（紧握）
+    * grab（攫取）
+    * get（获得）
+    * gesture（手势）
 * [L-l](L.md)
   * 鞭子、权杖
     * lash（鞭打）
