@@ -463,6 +463,8 @@
 * [G-g](G.md)
   * 大地上长出东西的象形，并衍生出其他意义，也有说法是C的变形，表示带门的房子，也有区分[g]和[k]的发音的说法。
   * 土地
+    * give（给（大地给予万物））
+    * good（好）
     * geography（地理学）
     * ground（地面）
     * groundless（无根据的）
@@ -472,6 +474,8 @@
     * great（伟大）
     * globe（地球）
     * global（全球的，球形的）
+    * gain（收获）
+    * gold（金子（埋在地下面））
   * 萌发（胚胎的形状）
     * egg（鸡蛋）
     * eggplant（茄子）
@@ -479,10 +483,13 @@
     * frog（青蛙）
     * tiger（老虎）
     * big（大）
+    * green（绿色）
+    * grass（草，草原）
   * 新生
     * gene（基因）
     * grow（生长）
     * age（年龄）
+    * gift（礼物）
   * 伟大
     * great（伟大）
     * giant（巨大）
@@ -493,7 +500,10 @@
     * grandma（祖母）
     * grandmother（祖母）
   * 门口（C的房子，多个门槛）
+    * go（去，走，到达）
+    * get（得到）
     * gate（门口）
+    * guest（顾客）
     * gap（空隙）
     * gorge（峡谷，凹槽）
     * guide（带领，向导，指南）
