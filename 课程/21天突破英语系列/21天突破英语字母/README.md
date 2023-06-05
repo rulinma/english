@@ -468,37 +468,52 @@
     * groundless（无根据的）
     * geology（地质学）
     * gravity（重力）
+    * god（神）
     * great（伟大）
-  * 胚胎的形状
+    * globe（地球）
+    * global（全球的，球形的）
+  * 萌发（胚胎的形状）
     * egg（鸡蛋）
+    * eggplant（茄子）
     * pig（猪）
     * frog（青蛙）
     * tiger（老虎）
     * big（大）
-  * 生育
+  * 新生
     * gene（基因）
     * grow（生长）
     * age（年龄）
   * 伟大
     * great（伟大）
     * giant（巨大）
+    * gigantic（巨大的）
     * grand（伟大的）
-    * grandma（祖母）
     * grandpa（祖父）
+    * grandfather（祖父）
+    * grandma（祖母）
+    * grandmother（祖母）
   * 门口（C的房子，多个门槛）
     * gate（门口）
+    * gap（空隙）
+    * gorge（峡谷，凹槽）
+    * guide（带领，向导，指南）
+    * goal（目标（回家的路））
     * garden（庭院）
-  * C、G、K、Q的相互借用，某些G从K而来
+  * C、G、K、Q的相互借用，某些G从K而来，也就有手的延伸意义；也有说法像上下臂弯曲形状
     * grab（攫取）
     * grasp（紧握）
     * give（给）
-  * 普通话勾的发音，衍生出手指
+    * govern（统治）
+    * government（政府）
+  * 普通话勾的发音，衍生出手指；G也有像钩子的形状
     * get（获得）
     * grab（抓取）
     * glove（手套）
     * gun（枪）
     * dig（挖）
     * finger（手指）
+    * digit（手指，脚趾；数字）
+    * hang（挂，悬挂）
 * [H-h](H.md)
   * 梯子
     * high（高）
