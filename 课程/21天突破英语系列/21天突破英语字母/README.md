@@ -360,14 +360,18 @@
     * decimal（十进制的）
     * decimeter（分米）
 * [E-e](E.md)
-  * 象形举起双手的人
+  * E的一种说法是象举起双手的人
     * excite（激动）
     * exult（欢腾）
   * 祈祷
     * eternity（永生）
-  * 公正
+    * eager（渴望，渴求）
+  * 公平、公正、相等（E的上下2个部分相等）
+    * equal（相等；平等的）
+    * equality（平等，相等）
     * equity（公平）
-  * 眼睛
+    * equivalent（等价的，相等的）
+  * 眼睛（E的另一种说法，也有窗户的说法）
     * eye（眼睛）
     * meet（遇见）
     * peek（偷看）
@@ -375,6 +379,18 @@
     * seek（寻找）
     * seem（看起来）
     * sleep（睡觉）
+    * even（傍晚；甚至）
+    * evening（晚上，傍晚）
+    * eve（除夕）
+    * elephant（ele是2个眼睛和长鼻子的象形）
+    * peer（凝视）
+    * peep（偷看，窥视）
+    * keep（保持，看守）
+    * weep（流泪）
+    * bee（蜜蜂（2个眼睛是其显著特征））
+    * screen（屏幕）
+    * scene（场景）
+    * scenery（风景，景色）
   * 出现、存在、向外、超越
     * exist（存在）
     * exit（出口）
@@ -383,6 +399,8 @@
     * egg（蛋）
     * ellipse（椭圆）
     * eclipse（日蚀、月食）
+    * equator（赤道）
+    * eddy（旋涡）
   * 字母E的发音也很有意思，好像是人对看到的一切对听到的一切，不由得发出“咦、唉”等声音。巧合的是，字母 E 在单词中多发/i/、/i:/、/e/等音。
 * [F-f](F.md)
   * 权杖
