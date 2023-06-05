@@ -1,1 +1,114 @@
 # C
+
+* 一种说法是山洞的象形，是人类最初居住的地方，用来遮风避雨，抵御酷暑严寒。对于古代的人们来说，天然的山洞自然就成了最佳的栖息之地。
+  * city（城市）
+  * custom（习俗）
+  * country（国家）
+* 另一种说法是骆驼（骆驼的驼峰象形，半圆形）
+  * camel（骆驼）
+* C形物（镰刀，刀行工具）
+  * cut（切）
+  * chop（砍）
+* 农业（镰刀收割的衍生）
+  * corn（玉米）
+  * carbon（碳（稻草等火烧了后变成黑碳））
+  * can（能，可以（割稻子的一个人））
+  * come（来，到达（有农业的地方，喊你过去））
+  * core（核心）
+  * cake（蛋糕）
+  * cafe（咖啡）
+* 文明（农业衍生出文明）
+  * civil（文明的，公民的，国民的，平民的）
+  * civilian（平民，百姓；平民的，百姓的）
+  * civilization（文明，文明社会，文明国家；人类社会；教化，开化）
+  * city（城市）
+  * country（国家）
+  * club（俱乐部）
+  * color（色彩（解决生活问题，开始追求精神文明））
+* 文明的副产物（圈养家禽和宠物）
+  * cat（猫）
+  * cock（公鸡）
+  * cow（母牛）
+  * cub（幼兽；生育幼兽）
+  * calf（小牛，小牛皮）
+* 弯曲
+  * carve（雕刻）
+  * curve（弯曲，曲线）
+  * curl（卷发，使成卷状）
+  * curly（弯弯曲曲的）
+  * crooked（弯的，歪的）
+  * creek（小溪，支流）
+  * crawl（蠕动，爬行）
+  * crab（螃蟹（爬行动物））
+* 破碎
+  * crash（坠毁）
+  * clash（撞击）
+  * crack（破裂声）
+* 分类
+  * class（分类）
+  * category（种类）
+* 圆，半圆
+  * circle（圆形）
+  * circus（马戏团）
+  * circuit（环形，巡回，电路）
+  * circular（圆形的，环形的）
+  * semi-circle（半圆）
+  * coil（绕圈）
+  * collar（衣领）
+  * curve（弯曲）
+  * cycle（循环，周期）
+  * cylinder（圆柱体）
+  * cup（杯子）
+  * can（罐头，容器，装罐）
+  * coat（外套）
+  * bicycle（自行车）
+  * tricycle（三轮车）
+  * coin（硬币）
+  * cylinder（圆柱体，圆桶）
+  * cucumber（黄瓜（长长圆圆的））
+  * column（柱，圆柱，栏，纵行）
+  * coast（海岸）
+  * cave（山洞，洞穴）
+  * cage（鸟笼，笼子）
+  * ceiling（天花板，顶棚）
+  * car（汽车）
+  * cab（出租汽车）
+  * child（小孩在肚子里的形状是圆形，而且在山洞里养，同时也是文明的延续）
+* 口
+  * cry（哭）
+  * call（喊）
+  * cough（咳嗽）
+  * chat（聊天）
+  * crazy（疯狂的）
+  * chant（唱，歌唱；圣歌）
+  * challenge（挑战）
+  * choir（唱诗班，合唱团；合唱）
+  * chorus（合唱团，歌咏队；齐唱，齐声说）
+  * crash（碰撞声，坠毁）
+  * cracker（爆竹，黑客（破坏性））
+  * code（代码，编码）
+  * cast（投掷）
+* C通K（手掌的意思）
+  * claw（爪子）
+  * clap（拍手；鼓掌）
+  * catch（抓住）
+  * control（控制）
+  * carry（拿）
+  * capture（捕获）
+  * clap（鼓掌）
+  * collect（收集）
+  * cover（覆盖，用手捂住）
+  * currency（现金）
+  * cut（切）
+  * cook（厨子，厨师；烹调，煮饭，加热）
+  * cash（现金）
+  * copy（复制）
+  * click（点击）
+* C的部分发音/k/，通汉语的刻
+  * carve（雕，刻，切下，割下等意义）
+  * cut（切）
+  * content（内容）
+  * chip（芯片（雕刻和文明的复合））
+* China（接近秦的发音，有可能是是秦朝声明远播的产物；也有说法是印度称古中国为支那的发音传播到西方）
+  * China（中国）
+  * china（瓷器）
