@@ -16,7 +16,7 @@
 |   8   |    9     |   10   |   11   |    12    |    13    |  14   |
 | H  |   I、J  | K |  L|   M  |N    | O  |
 |  15   |    16    |   17   |   18   |    19    |    20    |  21   |
- |   P   |  Q  |  R  |   S   | T | U、V、W  |X、Y、Z |
+|   P   |  Q  |  R  |   S   | T | U、V、W  |X、Y、Z |
 
 ## 字母表
 
@@ -160,10 +160,26 @@
     * country（国家）
   * 另一种说法是骆驼（骆驼的驼峰象形，半圆形）
     * camel（骆驼）
-  * C形物（镰刀，刀型工具）
+  * C形物（镰刀，刀行工具）
     * cut（切）
     * chop（砍）
+  * 农业（镰刀收割的衍生）
+    * corn（玉米）
+  * 文明（农业衍生出文明）
+    * civil（文明的，公民的，国民的，平民的）
+    * civilian（平民，百姓；平民的，百姓的）
+    * civilization（文明，文明社会，文明国家；人类社会；教化，开化）
+    * city（城市）
+    * country（国家）
+  * 弯曲
     * carve（雕刻）
+    * curve（弯曲，曲线）
+    * curl（卷发，使成卷状）
+    * curly（弯弯曲曲的）
+    * crooked（弯的，歪的）
+    * creek（小溪，支流）
+    * crawl（蠕动，爬行）
+    * crab（螃蟹（爬行动物））
   * 破碎
     * crash（坠毁）
     * clash（撞击）
@@ -173,6 +189,10 @@
     * category（种类）
   * 圆，半圆
     * circle（圆形）
+    * circus（马戏团）
+    * circuit（环形，巡回，电路）
+    * circular（圆形的，环形的）
+    * semi-circle（半圆）
     * coil（绕圈）
     * collar（衣领）
     * curve（弯曲）
@@ -180,11 +200,28 @@
     * cylinder（圆柱体）
     * cup（杯子）
     * coat（外套）
+    * bicycle（自行车）
+    * tricycle（三轮车）
+    * coin（硬币）
+    * cylinder（圆柱体，圆桶）
+    * cucumber（黄瓜（长长圆圆的））
+    * column（柱，圆柱，栏，纵行）
+    * coast（海岸）
+    * cave（山洞，洞穴）
+    * cage（鸟笼，笼子）
+    * ceiling（天花板，顶棚）
   * 口
     * cry（哭）
     * call（喊）
     * cough（咳嗽）
     * chat（聊天）
+    * crazy（疯狂的）
+    * chant（唱，歌唱；圣歌）
+    * challenge（挑战）
+    * choir（唱诗班，合唱团；合唱）
+    * chorus（合唱团，歌咏队；齐唱，齐声说）
+    * crash（碰撞声，坠毁）
+    * cracker（爆竹，黑客（破坏性））
   * C通K（手掌的意思）
     * claw（爪子）
     * catch（抓住）
