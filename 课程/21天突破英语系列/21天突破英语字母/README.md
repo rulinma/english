@@ -737,9 +737,14 @@
     * lace（鞋带）
     * lie（躺平）
     * light（光线）
+    * laser（激光）
+    * lamp（灯；照亮；发亮）
     * life（生命）
     * live（活着）
     * lion（狮子（象形））
+    * lot（很多）
+    * lady（女士（身材修长））
+    * log（圆木，日志，记录；伐木）
   * 高
     * ladder（梯子）
     * lift（举，升起）
