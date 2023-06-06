@@ -1034,6 +1034,7 @@
     * snake（蛇）
   * 光滑
     * smooth（光滑）
+    * slide（滑行）
   * 神圣（巫师的权杖一般有蛇形图案）
     * sin（罪恶）
     * sacred（圣神的）
@@ -1047,10 +1048,26 @@
   * S形
     * she（她）
     * sister（姐妹）
+  * 锯齿形
+    * saw（锯；锯开）
+    * separate（分开，分离）
+    * section（部分）
+  * 波浪（波纹形）
+    * sea（大海）
+    * seal（海豹）
+    * sail（航行）
+    * sailor（水手）
+    * soup（汤）
+    * soap（肥皂）
+    * sweat（出汗，汗）
+    * swim（游泳）
   * 摇摆
     * swim（游泳）
     * swing（摆动，摇荡）
     * sway（摇摆）
+  * 转动
+    * switch（开关）
+    * swap（交换）
   * 声音
     * sound（听见）
   * 代表元素水，与汉字"水"相似，呈S状，可以表示水、S形的事物与现象。
