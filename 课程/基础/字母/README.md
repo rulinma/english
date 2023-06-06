@@ -556,7 +556,8 @@
     * hijack（抢劫）
     * hamper（阻碍，妨碍）
   * 家
-    * home（家）
+    * home（家，住宅；产地；家乡）
+    * homey（舒适的；家庭似的；自在的）
     * house（房屋）
     * household（家庭）
     * husband（丈夫）
