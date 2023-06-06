@@ -961,6 +961,8 @@
     * quote（引用，引证）
     * quotation（引用，引文）
     * quarrel（吵架，争吵）
+    * quiet（安静的；安定的；不动的；温顺的；安静；和平）
+    * quit（退出；离开）
   * 问（疑问，询问）
     * quest（寻求，探求）
     * question（疑问）
