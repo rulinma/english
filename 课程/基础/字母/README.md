@@ -1094,16 +1094,31 @@
     * ten（十）
     * teenage（十几岁的）
     * tenfold（十倍的）
+    * two（二，二个）
+    * twice（两次；两倍）
   * T形，标记
     * tee（T形物）
     * tag（标记）
     * the（这；那）
+    * this（这个）
+    * that（那个）
+    * these（这些）
+    * those（那些）
+    * they（他们）
+    * their（他们的）
+    * them（他们）
   * 传输
+    * tell（告诉，说，吩咐）
+    * talk（说话；谈论；谈心；谈判）
+    * teach（教；教授；教导；教授；讲授；当老师）
+    * trade（交易）
     * transfer（传输）
+    * trip（旅行）
     * traffic（交通）
     * traverse（横贯）
     * transmit（传输）
     * transport（运输）
+    * text（文本，课文；发短信）
   * 三（左，右，下三个部分象形）
     * triangle（三角形）
   * 分叉（从三衍生）
