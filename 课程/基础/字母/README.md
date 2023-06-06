@@ -1315,4 +1315,4 @@ AI记单词：<https://www.xianglesong.com>
 
 ## 赞赏
 
-<img src="/images/wx_bonus.jpeg" width="49%" alt="请喝一杯"/>
+<img src="../../../images/wx_bonus.jpeg" width="49%" alt="请喝一杯"/>
