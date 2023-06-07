@@ -63,6 +63,19 @@
   * [新概念英语第三册](/词汇累积计划/新概念英语/新概念英语第三册/README.md)
   * [新概念英语第四册](/词汇累积计划/新概念英语/新概念英语第四册/README.md)
 
-## 赞赏
 
-<img src="images/wx_bonus.jpeg" width="49%" alt="请喝一杯"/>
+### 微信
+
+<img src="/images/wx_marulin.jpeg" width="49%" alt="马如林的微信"/>
+
+### 微信公众号
+
+<img src="/images/wx_word_sub.png" width="49%" alt="AI记单词微信公众号"/>
+
+### AI记单词
+
+<img src="/images/xianglesong.png" width="49%" alt="AI记单词网址"/>
+
+### 赞赏
+
+<img src="/images/wx_bonus_create_support.jpeg" width="49%" alt="创作不易 感谢支持"/>
