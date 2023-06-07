@@ -1317,10 +1317,9 @@ AI记单词：<https://www.xianglesong.com>
 
 ## 联系
 
-作者：马如林
-微信：rulinma
-电话：15026906099
-AI记单词：<https://www.xianglesong.com>
+### 微信
+
+<img src="../../../images/wx_marulin.jpeg" width="49%" alt="马如林的微信"/>
 
 ### 微信公众号
 
