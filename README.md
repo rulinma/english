@@ -77,4 +77,4 @@
 
 ### 赞赏
 
-<img src="images/wx_bonus_create_support.jpeg" width="49%" alt="创作不易 感谢支持"/>
+<img src="images/wx_bonus.jpeg" width="49%" alt="请喝一杯"/>
