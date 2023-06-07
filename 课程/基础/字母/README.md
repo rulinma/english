@@ -24,8 +24,13 @@ AI记单词：<https://www.xianglesong.com>
 
 * [A-a](A.md)
   * A字母象形牛角（腓尼基人牛角的象形，古希腊进行倒写，闪米特语族的公牛（ox）的意思，总而言之的一种说法是牛角，同时因为牛对农业社会里的古人很重要，所以放在第一位）
+  * 牛角
     * angle（角）
     * and（和：牛轭把两头牛连接在一起）
+  * 弧度（牛角弯曲状）
+    * arc（弧度）
+    * arch（拱形）
+    * archer（弓箭手）
   * 高
     * air（空气）
     * Alps（阿尔卑斯山，欧洲最高山）
@@ -42,13 +47,6 @@ AI记单词：<https://www.xianglesong.com>
     * acid（尖酸刻薄）
     * acute（尖的，敏锐的）
     * acupuncture（针灸）
-  * 第一
-    * alphabet（字母表）
-  * 重要
-    * ability（能力）
-    * administrator（管理者）
-  * 开始
-    * ancestor（祖先）
   * 反对（两个牛角相抵）
     * against（反对）
   * 否定（两个牛角相抵）
@@ -64,10 +62,13 @@ AI记单词：<https://www.xianglesong.com>
   * 攻击（两个牛角相抵）
     * angry（生气）
     * attack（攻击）
-  * 弧度（牛角弯曲状）
-    * arc（弧度）
-    * arch（拱形）
-    * archer（弓箭手）
+  * 第一
+    * alphabet（字母表）
+  * 重要
+    * ability（能力）
+    * administrator（管理者）
+  * 开始
+    * ancestor（祖先）
   * 人（另一种说法就是类似于人的形状，表示人，代表最基本的活动和情绪等）
     * adult（成年人）
     * act（行动）
