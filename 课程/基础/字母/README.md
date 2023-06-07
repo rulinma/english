@@ -1315,7 +1315,7 @@ AI记单词：<https://www.xianglesong.com>
 * [英文字母](https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%96%87%E5%AD%97%E6%AF%8)
 * 从人和物的视角探讨英文中二十六个拉丁字母的象形本源
 
-## 联系
+## 附录
 
 ### 微信
 
