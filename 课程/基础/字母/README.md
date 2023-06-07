@@ -1325,6 +1325,10 @@ AI记单词：<https://www.xianglesong.com>
 
 <img src="../../../images/wx_word_sub.png" width="49%" alt="AI记单词微信公众号"/>
 
+### AI记单词
+
+<img src="../../../images/xianglesong.png" width="49%" alt="AI记单词网址"/>
+
 ### 赞赏
 
 <img src="../../../images/wx_bonus_create_support.jpeg" width="49%" alt="创作不易 感谢支持"/>
