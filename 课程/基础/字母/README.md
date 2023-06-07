@@ -1305,6 +1305,8 @@ AI记单词：<https://www.xianglesong.com>
 * [巧妙学单词：从象形到读音](https://book.douban.com/subject/30751225/)
 * [象形英文](http://product.dangdang.com/23507973.html)
 * [象形5000](https://book.douban.com/subject/25782487/)
+* [Claude in Slack](https://www.anthropic.com/claude-in-slack)
+* [ChatGPT](https://chat.openai.com/chat)
 * [Word Power Made Easy](https://book.douban.com/subject/25977798/)
 * [用23张图，告诉孩子26个英文字母的来历](https://www.sohu.com/a/344937328_120144900)
 * [English alphabet](https://en.wikipedia.org/wiki/English_alphabet)
@@ -1313,6 +1315,17 @@ AI记单词：<https://www.xianglesong.com>
 * [英文字母](https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%96%87%E5%AD%97%E6%AF%8)
 * 从人和物的视角探讨英文中二十六个拉丁字母的象形本源
 
-## 赞赏
+## 联系
 
-<img src="../../../images/wx_bonus.jpeg" width="49%" alt="请喝一杯"/>
+作者：马如林
+微信：rulinma
+电话：15026906099
+AI记单词：<https://www.xianglesong.com>
+
+### 微信公众号
+
+<img src="../../../images/wx_word_sub.png" width="49%" alt="AI记单词微信公众号"/>
+
+### 赞赏
+
+<img src="../../../images/wx_bonus_create_support.jpeg" width="49%" alt="创作不易 感谢支持"/>
