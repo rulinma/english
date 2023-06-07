@@ -1,4 +1,4 @@
-# AI记单词
+# AI记单词（人工智能记单词）
 
 ## 介绍
 
@@ -63,7 +63,6 @@
   * [新概念英语第三册](/词汇累积计划/新概念英语/新概念英语第三册/README.md)
   * [新概念英语第四册](/词汇累积计划/新概念英语/新概念英语第四册/README.md)
 
-
 ### 微信
 
 <img src="/images/wx_marulin.jpeg" width="49%" alt="马如林的微信"/>
@@ -72,7 +71,7 @@
 
 <img src="/images/wx_word_sub.png" width="49%" alt="AI记单词微信公众号"/>
 
-### AI记单词网址
+### AI记单词
 
 <img src="/images/xianglesong.png" width="49%" alt="AI记单词网址"/>
 
