@@ -284,9 +284,9 @@
 
 * [z]
   * z
-  * s
-  * ze
+    * zoo、zero
   * se
+    * these、those
 
 * [ʒ]
   * s
