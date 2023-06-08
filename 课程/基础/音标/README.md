@@ -37,12 +37,12 @@
 ## 音标及字母组合对照关系
 
 * [i:]
+  * e
+    * he、she、me
   * ee
     * three、tree、green
   * ea
     * eat、tea、meat
-  * e
-    * he、she、me
   * ie
     * piece
   * ei
@@ -57,20 +57,20 @@
     * money
 
 * [ɔ:]
+  * a
+    * water
   * al
     * small、wall、talk
   * or
     * short、for、more
   * au
     * author、autumn、caught
-  * our
-    * four
   * ar
     * warm
+  * our
+    * four
   * oor
     * door
-  * a
-    * water
 
 * [ɔ]
   * o
@@ -79,22 +79,22 @@
     * want、wash、watch
 
 * [u:]
-  * oo
-    * food、room、tooth
   * o
     * do、two
   * u
     * true、blue、ruler
+  * oo
+    * food、room、tooth
 
 * [u]
+  * o
+    * move
   * u
     * put、full、push
   * oo
     * look、good、book
   * ou
     * should、could
-  * o
-    * move
 
 * [ə:]
   * ir
@@ -109,40 +109,40 @@
     * work、world
 
 * [ə]
+  * a
+    * ago、panda、around
+  * o
+    * today、lesson
   * er
     * teacher、mother、remember
   * or
     * doctor、actor、author
   * ar
     * familiar、dollar
-  * o
-    * today、lesson
-  * a
-    * ago、panda、around
 
 * [ɑ:]
-  * ar
-    * car、farm、star
   * a
     * fast、class、grass
+  * ar
+    * car、farm、star
   * au
     * aunt
 
 * [ʌ]
-  * u
-    * up、sun、run
   * o
     * son、come、love
+  * u
+    * up、sun、run
   * ou
     * trouble
   * oo
     * blood、flood
 
 * [e]
-  * ea
-    * head、bread、bell
   * e
     * leg、egg、pen
+  * ea
+    * head、bread、bell
 
 * [æ]
   * a
