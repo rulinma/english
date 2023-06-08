@@ -1,6 +1,8 @@
 # 英语国际音标
 
-## 音标（48）
+## 音标
+
+国际音标（48）
 
 * 元音（20）
   * 单元音（12）
@@ -22,9 +24,14 @@
   * 半元音（2）
     * [j]、[w]
 
-* 发音参考视频
-  * [BBC官方音标教程](https://www.bilibili.com/video/BV127411n7nj)
-  * [48个英语音标示范读音](https://www.bilibili.com/video/BV1y4411e7wm)
+发音参考视频
+
+* [BBC官方音标教程](https://www.bilibili.com/video/BV127411n7nj)
+* [48个英语音标示范读音](https://www.bilibili.com/video/BV1y4411e7wm)
+
+注释
+
+* 元音是在发音过程中气流通过口腔而不受阻碍发出的音。
 
 ## 音标及字母组合对照关系
 
