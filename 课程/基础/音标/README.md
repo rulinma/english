@@ -210,6 +210,71 @@
   * oa
     * boat、coat、goal
 
+* [p]
+* [t]
+* [k]
+* [f]
+* [s]
+
+* [ʃ]
+  * sh
+    * ship、shoe、shop
+
+* [θ]
+  * th
+    * thank、three、thin
+
+* [tʃ]
+  * ch
+    * chair、watch、China
+
+* [tr]
+  * tr
+    * tree、try、train
+
+* [ts]
+  * ts
+    * hats、cats、students
+
+* [b]
+* [d]
+* [g]
+* [v]
+* [z]
+
+* [ʒ]
+  * s
+    * casual、treasure
+  * si
+    * television
+
+* [ð]
+  * th
+    * this、these、those
+
+* [dʒ]
+  * ge
+    * orange、page
+  * j
+    * job、jeep、jump
+
+* [dr]
+  * dr
+    * dry、drink、dress
+
+* [dz]
+  * ds
+    * beds、hands、cards
+
+* [m]
+* [n]
+* [ŋ]
+* [h]
+* [l]
+* [r]
+* [j]
+* [w]
+
 ## 推荐资料
 
 * [推荐][《英语单词发音密码》](http://product.dangdang.com/24167524.html)
