@@ -47,6 +47,44 @@
   * ei
     * rec<u>ei</u>ve
 
+* [i]
+  * i
+    * sit、pig、big
+  * y
+    * many、busy、happy
+  * ey
+    * money
+
+* [ʌ]
+  * u
+    * up
+
+* [æ]
+  * a
+    * apple、hand、bad
+
+* [ɛə]
+  * ear
+    * pear、bear
+  * air
+    * air、chair
+  * ere
+    * there、where
+
+* [au]
+  * ou
+    * house、out、mouth
+  * ow
+    * cow、now、how
+
+* [uə]
+  * ure
+    * sure
+  * oor
+    * poor
+  * our
+    * tour
+
 ## 推荐资料
 
 * [推荐][《英语单词发音密码》](http://product.dangdang.com/24167524.html)
