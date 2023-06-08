@@ -211,10 +211,38 @@
     * boat、coat、goal
 
 * [p]
+  * p
+    * pen、pig、play
+
 * [t]
+  * t
+    * boat、table、coat
+
 * [k]
+  * k
+    * kite、king、kitchen
+  * c
+    * can、car、cake
+  * ck
+    * lock、cock
+
 * [f]
+  * f
+    * fox、fish、five
+  * ph
+    * photo、phone、elephant
+  * gh
+    * laugh
+
 * [s]
+  * s
+    * six、sing、snow
+  * c
+    * cinema、city
+  * ss
+    * class
+  * ce
+    * nice
 
 * [ʃ]
   * sh
@@ -237,10 +265,28 @@
     * hats、cats、students
 
 * [b]
+  * b
+    * boy、bed、ball
+
 * [d]
+  * d
+    * dog、do、date
+
 * [g]
+  * g
+    * get、glass、give
+  * gg
+    * egg
+
 * [v]
+  * v
+    * very、five、love
+
 * [z]
+  * z
+  * s
+  * ze
+  * se
 
 * [ʒ]
   * s
@@ -267,13 +313,38 @@
     * beds、hands、cards
 
 * [m]
+  * m
+    * many、meat、music
+
 * [n]
+  * n
+    * no、not、new
+
 * [ŋ]
+  * ng
+    * sing、long
+
 * [h]
+  * h
+    * hot、he、his
+
 * [l]
+  * l
+    * look、long、left
+
 * [r]
+  * r
+    * red、read、run
+
 * [j]
+  * y
+    * you、yes、year、yellow
+
 * [w]
+  * w
+    * word、winter、window
+  * wh
+    * what、when、where
 
 ## 推荐资料
 
