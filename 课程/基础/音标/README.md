@@ -29,6 +29,10 @@
 * [BBC官方音标教程](https://www.bilibili.com/video/BV127411n7nj)
 * [48个英语音标示范读音](https://www.bilibili.com/video/BV1y4411e7wm)
 
+注释
+
+* 元音的典型区分应用就是a，an后面接单词是，如果辅音用a，如果是元音用an，主要目的应该是方便连续发音，用apple和banana试试看，体会一下哪个好发音也好听些。
+
 ## 音标及字母组合对照关系
 
 * [i:]
