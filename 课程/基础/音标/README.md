@@ -2,10 +2,6 @@
 
 ## 48个音标
 
-* 发音参考视频
-  * [BBC官方音标教程](https://www.bilibili.com/video/BV127411n7nj)
-  * [48个英语音标示范读音](https://www.bilibili.com/video/BV1y4411e7wm)
-
 * 元音（20）
   * 单元音（12）
     * 长元音
@@ -25,6 +21,10 @@
     * [h]、[l]、[r]
   * 半元音（2）
     * [j]、[w]
+
+* 发音参考视频
+  * [BBC官方音标教程](https://www.bilibili.com/video/BV127411n7nj)
+  * [48个英语音标示范读音](https://www.bilibili.com/video/BV1y4411e7wm)
 
 ## 音标及字母组合对照
 
