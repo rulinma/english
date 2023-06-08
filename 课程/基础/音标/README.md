@@ -38,15 +38,15 @@
 
 * [i:]
   * ee
-    * thr<u>ee</u>、tr<u>ee</u>、gr<u>ee</u>n
+    * three、tree、green
   * ea
-    * <u>ea</u>t、t<u>ea</u>、m<u>ea</u>t
+    * eat、tea、meat
   * e
-    * h<u>e</u>、sh<u>e</u>、m<u>e</u>
+    * he、she、me
   * ie
-    * p<u>ie</u>ce
+    * piece
   * ei
-    * rec<u>ei</u>ve
+    * receive
 
 * [i]
   * i
@@ -84,7 +84,7 @@
   * o
     * do、two
   * u
-    * true、blue】ruler
+    * true、blue、ruler
 
 * [u]
   * u
