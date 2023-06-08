@@ -56,13 +56,121 @@
   * ey
     * money
 
+* [ɔ:]
+  * al
+    * small、wall、talk
+  * or
+    * short、for、more
+  * au
+    * author、autumn、caught
+  * our
+    * four
+  * ar
+    * warm
+  * oor
+    * door
+  * a
+    * water
+
+* [ɔ]
+  * o
+    * on、hot、dog
+  * a
+    * want、wash、watch
+
+* [u:]
+  * oo
+    * food、room、tooth
+  * o
+    * do、two
+  * u
+    * true、blue】ruler
+
+* [u]
+  * u
+    * put、full、push
+  * oo
+    * look、good、book
+  * ou
+    * should、could
+  * o
+    * move
+
+* [ə:]
+  * ir
+    * girl、shirt、bird
+  * ur
+    * turn、nurse、turtle
+  * ear
+    * learn、earth
+  * er
+    * her、term
+  * or
+    * work、world
+
+* [ə]
+  * er
+    * teacher、mother、remember
+  * or
+    * doctor、actor、author
+  * ar
+    * familiar、dollar
+  * o
+    * today、lesson
+  * a
+    * ago、panda、around
+
+* [ɑ:]
+  * ar
+    * car、farm、star
+  * a
+    * fast、class、grass
+  * au
+    * aunt
+
 * [ʌ]
   * u
-    * up
+    * up、sun、run
+  * o
+    * son、come、love
+  * ou
+    * trouble
+  * oo
+    * blood、flood
+
+* [e]
+  * ea
+    * head、bread、bell
+  * e
+    * leg、egg、pen
 
 * [æ]
   * a
     * apple、hand、bad
+
+* [ei]
+  * a
+    * name、cake、age
+  * ay
+    * play、say、may
+  * ea
+    * great、break
+  * ai
+    * rain、paint、plain
+  * ey
+    * they、grey
+
+* [ai]
+  * i
+    * bike、kite、find
+  * y
+    * my、try、eye
+
+* [ɔi]
+  * oy
+    * boy、toy、oil
+  * oi
+    * voice、choice
 
 * [ɛə]
   * ear
@@ -72,12 +180,6 @@
   * ere
     * there、where
 
-* [au]
-  * ou
-    * house、out、mouth
-  * ow
-    * cow、now、how
-
 * [uə]
   * ure
     * sure
@@ -85,6 +187,28 @@
     * poor
   * our
     * tour
+
+* [iə]
+  * ea
+    * idea
+  * ear
+    * ear、near、year
+  * eer
+    * beer
+
+* [au]
+  * ou
+    * house、out、mouth
+  * ow
+    * cow、now、how
+
+* [əu]
+  * o
+    * home、cold、go
+  * ow
+    * know、low、grow
+  * oa
+    * boat、coat、goal
 
 ## 推荐资料
 
