@@ -29,11 +29,6 @@
 * [BBC官方音标教程](https://www.bilibili.com/video/BV127411n7nj)
 * [48个英语音标示范读音](https://www.bilibili.com/video/BV1y4411e7wm)
 
-注释
-
-* 元音：发音过程中气流通过口腔而不受阻碍发出的音。
-* 辅音：发音过程中气流在口腔或咽头受阻碍而形成的音。
-
 ## 音标及字母组合对照关系
 
 * [i:]
