@@ -26,7 +26,19 @@
   * 半元音（2）
     * [j]、[w]
 
-## 音标单词示例
+## 音标及字母组合对照
+
+* [i:]
+  * ee
+    * thr<u>ee</u>、tr<u>ee</u>、gr<u>ee</u>n
+  * ea
+    * <u>ea</u>t、t<u>ea</u>、m<u>ea</u>t
+  * e
+    * h<u>e</u>、sh<u>e</u>、m<u>e</u>
+  * ie
+    * p<u>ie</u>ce
+  * ei
+    * rec<u>ei</u>ve
 
 ## 推荐资料
 
