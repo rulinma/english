@@ -1,6 +1,6 @@
 # AI记单词
 
-* [AI记单词](README.md)
+* [简介](README.md)
 
 * [基础](/课程/基础/README.md)
   * [学习路线图](/课程/基础/学习路线图/README.md)
