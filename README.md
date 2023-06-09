@@ -11,7 +11,7 @@
   * 微信：15026906099
   * 支付宝：<rulinma@qq.com>
 
-<img src="images/xianglesong.png" width="49%" alt="AI记单词网址"/>
-<img src="images/wx_word_sub.png" width="49%" alt="AI记单词微信公众号"/>
-<img src="images/wx_marulin.jpeg" width="49%" alt="马如林的微信"/>
-<img src="images/wx_bonus.jpeg" width="49%" alt="请喝一杯"/>
+<img src="images/xianglesong.png" width="24%" alt="AI记单词网址"/>
+<img src="images/wx_word_sub.png" width="24%" alt="AI记单词微信公众号"/>
+<img src="images/wx_marulin.jpeg" width="24%" alt="马如林的微信"/>
+<img src="images/wx_bonus.jpeg" width="24%" alt="请喝一杯"/>
