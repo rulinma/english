@@ -1,4 +1,4 @@
-# 英语国际音标
+# 英语国际音标及其与字母组合对应关系
 
 ## 音标
 
@@ -31,10 +31,10 @@
 
 注释
 
-* 元音的典型区分应用就是a，an后面接单词是，如果辅音用a，如果是元音用an，主要目的应该是方便连续发音，用apple和banana试试看，体会一下哪个好发音也好听些。
+* 元音的典型区分应用就是a，an后面接单词如果是辅音用a，元音用an，主要目的应该是方便连续发音，用apple和banana试试看，体会一下哪个好发音也好听些。
 * 汉语拼音的a，o，e，i，u都是元音，简单认为和这几个发音接近的就是元音，否则为辅音。
 
-## 音标及字母组合对照关系
+## 音标及字母组合对应关系
 
 * [i:]
   * e
@@ -47,6 +47,12 @@
     * piece
   * ei
     * receive
+  * i
+    * police
+  * ey
+    * key
+  * ie
+    * piece
 
 * [i]
   * i
@@ -55,18 +61,34 @@
     * many、busy、happy
   * ey
     * money
+  * a
+    * orange、village、comrade
+  * e
+    * begin、behind、jacket
+  * ay
+    * Sunday
+  * u
+    * busy、business
+  * ui
+    * build
 
 * [ɔ:]
   * a
     * water
+  * aw
+    * draw、strawberry
   * al
     * small、wall、talk
   * or
     * short、for、more
+  * ore
+    * core
   * au
     * author、autumn、caught
   * ar
     * warm
+  * oar
+    * board
   * our
     * four
   * oor
@@ -77,14 +99,28 @@
     * on、hot、dog
   * a
     * want、wash、watch
+  * au
+    * Australia
+  * ou
+    * cough
+  * ow
+    * knowledge
 
 * [u:]
   * o
     * do、two
   * u
     * true、blue、ruler
+  * ui
+    * fruit、juice
+  * oe
+    * canoe（独木舟；划独木舟）
+  * ou
+    * coupon
   * oo
     * food、room、tooth
+  * ew
+    * drew（draw的过去式；牵引；描绘）、blew（blow的过去式）
 
 * [u]
   * o
@@ -118,7 +154,15 @@
   * or
     * doctor、actor、author
   * ar
-    * familiar、dollar
+    * familiar、dollar、sugar
+  * re
+    * metre、centre
+  * ou
+    * delicious、gracious
+  * e
+    * open、hundred
+  * u
+    * datum、curriculum（课程）
 
 * [ɑ:]
   * a
@@ -127,6 +171,10 @@
     * car、farm、star
   * au
     * aunt
+  * ear
+    * heart
+  * al
+    * half、calm、palm
 
 * [ʌ]
   * o
@@ -143,10 +191,20 @@
     * leg、egg、pen
   * ea
     * head、bread、bell
+  * a
+    * many、any、anything
+  * ai
+    * said
+  * ue
+    * guess、guest
+  * ie
+    * friend
 
 * [æ]
   * a
     * apple、hand、bad
+  * ai
+    * plaid（格子图案；有格子图案的）
 
 * [ei]
   * a
@@ -159,12 +217,24 @@
     * rain、paint、plain
   * ey
     * they、grey
+  * ei
+    * reign、veil
+  * eigh
+    * eight、weight
 
 * [ai]
   * i
     * bike、kite、find
   * y
     * my、try、eye
+  * ie
+    * tie、pie
+  * uy
+    * buy
+  * ei
+    * either
+  * (e)igh
+    * high、height
 
 * [ɔi]
   * oy
@@ -179,6 +249,10 @@
     * air、chair
   * ere
     * there、where
+  * are
+    * dare、hare
+  * eir
+    * their
 
 * [uə]
   * ure
@@ -187,14 +261,20 @@
     * poor
   * our
     * tour
+  * u
+    * jury（陪审团）
 
 * [iə]
   * ea
-    * idea
+    * idea、really
   * ear
     * ear、near、year
   * eer
     * beer
+  * e
+    * era
+  * ier
+    * pierce（刺入，刺穿）
 
 * [au]
   * ou
@@ -209,14 +289,24 @@
     * know、low、grow
   * oa
     * boat、coat、goal
+  * ou
+    * should、though
 
 * [p]
   * p
     * pen、pig、play
+  * pp
+    * apple、happy
+  * pe
+    * cope、ripe（成熟的）
 
 * [t]
   * t
     * boat、table、coat
+  * tt
+    * butter、matter
+  * te
+    * bite、cute
 
 * [k]
   * k
@@ -225,14 +315,24 @@
     * can、car、cake
   * ck
     * lock、cock
+  * ch
+    * school、Christmas
+  * que
+    * cheque、technique
+  * ke
+    * lake、bike
 
 * [f]
   * f
     * fox、fish、five
+  * ff
+    * giraffe
   * ph
     * photo、phone、elephant
   * gh
     * laugh
+  * fe
+    * knife、life
 
 * [s]
   * s
@@ -243,10 +343,24 @@
     * class
   * ce
     * nice
+  * sc
+    * scene、scientist
+  * se
+    * sense、dense
 
 * [ʃ]
   * sh
     * ship、shoe、shop
+  * s
+    * sugar、sure
+  * ch
+    * machine
+  * ci
+    * special、species
+  * si
+    * session、passion
+  * ti
+    * patient、cautious
 
 * [θ]
   * th
@@ -255,6 +369,10 @@
 * [tʃ]
   * ch
     * chair、watch、China
+  * tch
+    * watch、match
+  * t
+    * virtual、question、ritual（仪式）
 
 * [tr]
   * tr
@@ -263,36 +381,68 @@
 * [ts]
   * ts
     * hats、cats、students
+  * tes
+    * gates、kites、tastes
 
 * [b]
   * b
     * boy、bed、ball
+  * bb
+    * rubber、rabbit、cabbage
+  * be
+    * tube
 
 * [d]
   * d
     * dog、do、date
+  * ed
+    * smiled、opened、played
+  * dd
+    * addition、buddy
+  * de
+    * ride、jade
 
 * [g]
   * g
     * get、glass、give
   * gg
     * egg
+  * gh
+    * ghost
+  * gu
+    * guide、guilt
+  * gue
+    * dialogue、colleague
 
 * [v]
   * v
-    * very、five、love
+    * very、video、vase
+  * ve
+    * five、love
 
 * [z]
   * z
     * zoo、zero
+  * s
+    * bags、photos、sisters
   * se
-    * these、those
+    * these、those、nose、rose
+  * ze
+    * size、realize
+  * es
+    * knives、wolves
 
 * [ʒ]
   * s
     * casual、treasure
   * si
-    * television
+    * television、decision
+  * ge
+    * massage（按摩）、mirage（海市蜃楼；幻想，妄想）
+  * gi
+    * regime（政权）
+  * z
+    * seizure（夺取，控制；扣押，没收；（疾病的）突然发作）
 
 * [ð]
   * th
@@ -303,6 +453,10 @@
     * orange、page
   * j
     * job、jeep、jump
+  * g
+    * ginger、giraffe
+  * dge
+    * bridge、judge
 
 * [dr]
   * dr
@@ -311,34 +465,64 @@
 * [dz]
   * ds
     * beds、hands、cards
+  * des
+    * rides
 
 * [m]
   * m
     * many、meat、music
+  * mb
+    * climb、comb、thumb
+  * mm
+    * hammer、common、yummy
+  * mn
+    * autumn
+  * me
+    * time、come
 
 * [n]
   * n
     * no、not、new
+  * kn
+    * knee、knife、knock
+  * gn
+    * sign、design
+  * nn
+    * sunny、dinner、tennis
 
 * [ŋ]
   * ng
     * sing、long
+  * n
+    * ink、bank、tank
 
 * [h]
   * h
     * hot、he、his
+  * wh
+    * who、whose
 
 * [l]
   * l
     * look、long、left
+  * ll
+    * tell、ball、pull
 
 * [r]
   * r
     * red、read、run
+  * rr
+    * mirror、carrot、parrot
+  * wr
+    * write、wrong、wrap
+  * rh
+    * rhyme、rhythm
 
 * [j]
   * y
     * you、yes、year、yellow
+  * e
+    * few、beauty
 
 * [w]
   * w
