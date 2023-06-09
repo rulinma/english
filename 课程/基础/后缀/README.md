@@ -549,3 +549,7 @@
 * -yer
   * 做……的人
     * lawyer（律师）、employer（雇主）
+
+## 参考文献
+
+1. [AI英语-人工智能记英语](https://www.xianglesong.com)
