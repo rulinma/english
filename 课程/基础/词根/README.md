@@ -236,6 +236,8 @@
   * 成形
     * weld（焊接）、 well（井）
 
+持续整理更新中。
+
 ## 参考文献
 
 1. [AI英语-人工智能记英语](https://www.xianglesong.com)
