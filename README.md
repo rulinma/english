@@ -13,5 +13,5 @@
 
 <img src="images/xianglesong.png" width="24%" alt="AI记单词网址"/>
 <img src="images/wx_word_sub.png" width="24%" alt="AI记单词微信公众号"/>
-<img src="images/wx_marulin.jpeg" width="24%" alt="马如林的微信"/>
 <img src="images/wx_bonus.jpeg" width="24%" alt="请喝一杯"/>
+<img src="images/wx_marulin.jpeg" width="24%" alt="马如林的微信"/>
