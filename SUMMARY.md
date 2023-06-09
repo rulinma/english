@@ -9,7 +9,11 @@
   * [词根](/课程/基础/单词/README.md)
   * [前缀](/课程/基础/单词/README.md)
   * [后缀](/课程/基础/单词/README.md)
-  * [单词](/课程/基础/单词/README.md)
+
+* [单词](/课程/单词/README.md)
+  * [A](/课程/单词/A/README.md)
+  * [B](/课程/单词/B/README.md)
+  * [C](/课程/单词/C/README.md)
 
   <!-- * [听力](/课程/基础/听力/README.md) -->
   <!-- * [语法](/课程/基础/语法/README.md) -->
