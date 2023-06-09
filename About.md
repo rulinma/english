@@ -24,7 +24,7 @@
 
 * 我工作中做过汇丰和富达的项目，这种全球性企业，英语交流是基础，我英语就拖后腿了，阅读问题不大，但是口语交流就没辙了，有种书到用时方恨少的感觉，引以为鉴。
 
-<img src="images/wx_marulin.jpeg" width="49%" alt="马如林的微信"/>
-<img src="images/wx_word_sub.png" width="49%" alt="AI记单词微信公众号"/>
-<img src="images/wx_bonus.jpeg" width="49%" alt="请喝一杯"/>
-<img src="images/xianglesong.png" width="49%" alt="AI记单词网址"/>
+<img src="images/wx_marulin.jpeg" width="24%" alt="马如林的微信"/>
+<img src="images/wx_word_sub.png" width="24%" alt="AI记单词微信公众号"/>
+<img src="images/wx_bonus.jpeg" width="24%" alt="请喝一杯"/>
+<img src="images/xianglesong.png" width="24%" alt="AI记单词网址"/>
