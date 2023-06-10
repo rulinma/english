@@ -42,7 +42,6 @@
   * [Y](/课程/单词/Y/README.md)
   * [Z](/课程/单词/Z/README.md)
 
-
-<!-- * [宝藏](/Resource.md) -->
+* [宝藏](/Resource.md)
 
 * [关于](/About.md)
