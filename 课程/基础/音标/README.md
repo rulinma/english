@@ -530,6 +530,8 @@
   * wh
     * what、when、where
 
+持续整理更新中。
+
 ## 推荐资料
 
 * [推荐][《英语单词发音密码》](http://product.dangdang.com/24167524.html)
