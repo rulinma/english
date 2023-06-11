@@ -10,10 +10,21 @@
 * [课程](/课程/README.md)
   * 人工智能记单词
     * [日积月累](/课程/日积月累/README.md)
-  * 词汇累积计划
+  * 词汇累积计划（7000）
     * [1000基础英语词汇](/课程/词汇累积计划/1000基础英语词汇/README.md)
+    * [2000核心英语词汇](/课程/词汇累积计划/2000核心英语词汇/README.md)
+    * [4000基本英语词汇](/课程/词汇累积计划/4000基本英语词汇/README.md)
   * 新概念英语
     * [新概念第一册词汇](/课程/新概念英语/新概念英语第一册词汇/README.md)
+    * [新概念第二册词汇](/课程/新概念英语/新概念英语第二册词汇/README.md)
+    * [新概念第三册词汇](/课程/新概念英语/新概念英语第三册词汇/README.md)
+    * [新概念第四册词汇](/课程/新概念英语/新概念英语第四册词汇/README.md)
+  * 高考
+    * [高考英语词汇](/课程/高考/高考英语词汇/README.md)
+  * 大学
+    * [大学英语四级词汇](/课程/大学英语四级/大学英语四级词汇/README.md)
+    * [大学英语六级词汇](/课程/大学英语六级/大学英语六级词汇/README.md)
+    * [硕士研究生入学考试英语](/课程/考研/硕士研究生入学考试词汇/README.md)
 
 * [索引](/课程/单词/README.md)
   * [A](/课程/单词/A/README.md) | [B](/课程/单词/B/README.md) | [C](/课程/单词/C/README.md) | [D](/课程/单词/D/README.md) | [E](/课程/单词/E/README.md) | [F](/课程/单词/F/README.md) | [G](/课程/单词/G/README.md) | [H](/课程/单词/H/README.md) | [I](/课程/单词/I/README.md) | [J](/课程/单词/J/README.md) | [K](/课程/单词/K/README.md) | [L](/课程/单词/L/README.md) | [M](/课程/单词/M/README.md) | [N](/课程/单词/N/README.md) | [O](/课程/单词/O/README.md) | [P](/课程/单词/P/README.md) | [Q](/课程/单词/Q/README.md) | [R](/课程/单词/R/README.md) | [S](/课程/单词/S/README.md) | [T](/课程/单词/T/README.md) | [U](/课程/单词/U/README.md) | [V](/课程/单词/V/README.md) | [W](/课程/单词/W/README.md) | [X](/课程/单词/X/README.md) | [Y](/课程/单词/Y/README.md) | [Z](/课程/单词/Z/README.md)
