@@ -9,11 +9,6 @@
   * [后缀](/课程/基础/后缀/README.md)
   * [词根](/课程/基础/词根/README.md)
 
-* [单词](/课程/单词/README.md)
-  * [A](/课程/单词/A/README.md)
-  * [B](/课程/单词/B/README.md)
-  * [C](/课程/单词/C/README.md)
-
 ## 参考文献
 
 1. [AI英语-人工智能记英语](https://www.xianglesong.com)
