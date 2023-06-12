@@ -74,36 +74,36 @@
 
 | 序号 | 单词列表 |
 | :---:  |:----------: |
-| 1 |  acre, interiorafterlife, royalarchaeology, chamber, glory, channel, engineercore, corridor, coredistinct, elite, engineer, found, gap, archaeologyglory, distinctInterior, lion, role, afterliferoyal, sole, stairs, surface |
-| 2 |  preachagreement, occupyarise, ladderbenefactor, blacksmith, chimney, benefactor, compensate, provinceencounter, exceed, forge, humble, iron, ariseladder, modest, agreementoccupy, penny, encounterpreach, prosper, sustainprovince, satisfaction, modestsustain |
-| 3 |  offenseacquire, shepherdawkward, repaycaretaker, venturedeceive, hut, discourage, fake, hatred, caretakerhut, inferior, acquirelodge, neglect, newcomer, offense, overlook, awkwardrepay, wheatridiculous, satisfactory, deceiveshepherd, ridiculousventure, lodgewheat |
-| 4 |  alley, pineax, kid, bunch, sledchore, decent, sensationdisgraceful, elbow, grateful, irritate, axkid, loose, disgracefuloffend, overnight, persist, chorepine, scar, loosesensation, valentinesled, tease, offendvalentine |
-| 5 |  acquaint, spoilcemetery, creature, curse, disguise, fancy, flashlight, publication, hood, inhabitant, nourish, pirate, cemeterypublication, riddle, rot, shortly, skeleton, spoil, starve, thrill, wicked |
-| 6 |  alert, endurebroadcast, console, bulletin, bump, rearchop, closet, wormconsole, district, drawer, chopendure, execute, grasp, districtrear, senator, skull, underneathstir, tap, tremendous, broadcastunderneath, stirworm |
-| 7 |  refugeabandon, overweightambitious, loyalbark, horizon, bay, brilliant, chin, complaint, deaf, enthusiastic, expedition, barkhorizon, ambitiousloyal, brilliantmayor, mutual, abandonoverweight, sensesrefuge, restore, rub, mayorsenses, veterinarian |
-| 8 |  needleanniversary, ivoryarithmetic, ashamed, burst, upwardscarpenter, arithmetic, coal, couch, threaddrip, millelegant, fabric, highlands, anniversaryivory, carpentermill, dripneedle, polish, sew, shed, elegantthread, trim, upwards |
-| 9 |  ally, boast, bounce, wrestle, bully, stingcarbohydrate, quarrelcrawl, defeat, dial, crawldominant, tortureentire, mercy, nod, opponent, carbohydratequarrel, rival, sore, entiresting, strain, dominanttorture, wrestle |
-| 10 |  urgentabsence, rhymealoud, bald, reliefblanket, wagoncreep, divorce, imitate, blanket, infant, kidnap, nap, nowhere, pat, aloudrelief, reproduce, absencerhyme, suck, creepurgent, vanish, nowherewagon, wrinkle |
-| 11 |  planearchitecture, Julybasket, bloom, canoe, carpet, uppercousin, desk, theater, refrigeratorgallery, guest, host, architectureJuly, modern, museum, pink, basketplane, refrigerator, temperature, cousintheater, galleryupper, welcome |
-| 12 |  swiftanticipate, barrel, scentbeam, casual, kit, caution, contrary, deliberate, dissolve, tossexplode, fasten, explodegerm, beamkit, puff, rag, scatter, anticipatescent, steel, germswift, deliberatetoss, triumph |
-| 13 |  sheriffaboard, portbitter, harbor, bullet, devil, drift, enforce, startlefountain, bitterharbor, inhabit, triggermarch, millionaire, aboardport, marchsheriff, startle, sweat, voyagetrigger, unify, vessel, fountainvoyage, worship |
-| 14 |  panicapprentice, assure, massivebandage, kneelbleed, bond, departurechef, crown, apprenticedeparture, diligent, emperor, fiber, bleed, horrible, chefimpolite, bandagekneel, luxury, impolitemassive, panic, priority, robe, scold |
-| 15 |  affair, slimassembly, roastbless, stovecereal, cheerful, diameter, exploit, famine, theftharvest, merry, nut, bless, pardon, pharaoh, ripe, assemblyroast, routine, scheme, cerealslim, harveststove, pardontheft |
-| 16 |  sliceadolescent, punishmentaptitude, sorrowcompliment, privacyhinder, journalism, hinder, jury, justice, tidyliberty, literary, pharmacy, pill, presume, aptitudeprivacy, adolescentpunishment, sensible, complimentslice, libertysorrow, straw, swell, jurytidy |
-| 17 |  affection, sympathyagency, vibrateash, slopeconfine, dismiss, erupt, fate, confine, lava, miserable, navigate, originate, remainder, retrieve, shallow, ashslope, span, superstition, originatesympathy, agencyvibrate, wander |
-| 18 |  armor, revolutionblaze, lightning, boom, withdrawcliff, flame, independence, invasion, knight, blazelightning, rebel, retreat, cliffrevolution, spear, yieldsteep, summit, thunder, troops, warrior, steepwithdraw, invasionyield |
-| 19 |  bench, ragedaisy, dispute, empty, orphan, stemhorror, incident, mist, object, daisyorphan, supperplot, pregnant, sneakrage, revenge, tendershame, sigh, plotsneak, spare, stem, shamesupper, horrortender |
-| 20 |  outcomebeneath, howlcub, dawn, cub, dissatisfied, seizeease, evident, hail, beneathhowl, leap, vitalmagnificent, necessity, easeoutcome, pile, profound, terrificseize, squeeze, supreme, magnificentterrific, trait, vital |
-| 21 |  attack, femalebreast, DNAcancer, cigarette, cancerous, sugarcell, cancercigarette, populationcode, cure, destruction, breastDNA, extensive, inheritfemale, furthermore, gene, codeinherit, link, male, cellpopulation, result, furthermoresugar |
-| 22 |  peeraccommodate, inquirecircus, temptcoincide, gender, commission, dose, dye, extent, circusgender, headline, stripeinformal, accommodateinquire, messenger, ranchpeer, portrait, pose, informalranch, steer, coincidestripe, tame, tempt |
-| 23 |  van, seldomcautious, confess, terrifiedcottage, daytime, shavedesperate, exhausting, fade, fierce, gamble, lawn, desperate, mow, outlaw, prospect, purse, rod, fierceseldom, cottageshave, cautiousterrified, wizard |
-| 24 |  abroad, draftairline, audience, maximumbargain, brief, currency, remotedata, domestic, airline, bargaindraft, gather, hobby, income, sleeplessjet, datamaximum, official, recommend, refer, jetremote, domesticsleepless, volume |
-| 25 |  circulate, illusionconsequent, derive, navydrown, dynasty, resignfraction, frost, consequent, drownillusion, invade, vialieutenant, underlyingmarine, merit, tremblenavy, polar, ray, marineresign, suicide, lieutenanttremble, deriveunderlying, fractionvia |
-| 26 |  alter, fuseaside, embraceautumn, blend, gingercollapse, crush, curve, autumn, disgusting, drain, asideembrace, wipeenvy, collapsefireworks, flour, receiptfuse, jealous, envyginger, paste, fireworksreceipt, curvewipe, wire |
-| 27 |  acknowledge, prejudiceambassador, blonde, heritageconquer, drag, exaggerate, conquer, ambassadorheritage, sininsult, meanwhile, necklace, suspiciousnoble, precious, tinprejudice, rumor, sin, spectacle, stack, insultsuspicious, nobletin, vase |
-| 28 |  ache, merchantarctic, hesitate, canal, chemist, chill, splashcongress, dairy, descend, tidegrocer, arctichesitate, institution, jog, suburbmerchant, poke, postpone, canalsplash, stubborn, grocersuburb, congresstide, tragedy |
-| 29 |  bomb, licensecertificate, glance, circumstance, coffin, gazecope, criticism, devastate, frown, circumstancegaze, certificateglance, rotategrief, copegroom, nuclearlicense, microscope, griefnuclear, portray, submarinerotate, souvenir, groomsubmarine, trace |
-| 30 |  coastline, insightdeter, spousedevise, distance, shoulderexpertise, deter, proficientfracture, mightheadache, implement, headacheinsight, fracturelimb, expertisemight, optimism, proficient, raft, thrustridge, deviseshoulder, shove, ridgespouse, limbthrust, tolerate |
+| 1 |  acre, afterlife, archaeology, chamber, channel, core, corridor, distinct, elite, engineer, found, gap, glory, Interior, lion, role, royal, sole, stairs, surface |
+| 2 |  agreement, arise, benefactor, blacksmith, chimney, compensate, encounter, exceed, forge, humble, iron, ladder, modest, occupy, penny, preach, prosper, province, satisfaction, sustain |
+| 3 |  acquire, awkward, caretaker, deceive, discourage, fake, hatred, hut, inferior, lodge, neglect, newcomer, offense, overlook, repay, ridiculous, satisfactory, shepherd, venture, wheat |
+| 4 |  alley, ax, bunch, chore, decent, disgraceful, elbow, grateful, irritate, kid, loose, offend, overnight, persist, pine, scar, sensation, sled, tease, valentine |
+| 5 |  acquaint, cemetery, creature, curse, disguise, fancy, flashlight, hood, inhabitant, nourish, pirate, publication, riddle, rot, shortly, skeleton, spoil, starve, thrill, wicked |
+| 6 |  alert, broadcast, bulletin, bump, chop, closet, console, district, drawer, endure, execute, grasp, rear, senator, skull, stir, tap, tremendous, underneath, worm |
+| 7 |  abandon, ambitious, bark, bay, brilliant, chin, complaint, deaf, enthusiastic, expedition, horizon, loyal, mayor, mutual, overweight, refuge, restore, rub, senses, veterinarian |
+| 8 |  anniversary, arithmetic, ashamed, burst, carpenter, coal, couch, drip, elegant, fabric, highlands, ivory, mill, needle, polish, sew, shed, thread, trim, upwards |
+| 9 |  ally, boast, bounce, bully, carbohydrate, crawl, defeat, dial, dominant, entire, mercy, nod, opponent, quarrel, rival, sore, sting, strain, torture, wrestle |
+| 10 |  absence, aloud, bald, blanket, creep, divorce, imitate, infant, kidnap, nap, nowhere, pat, relief, reproduce, rhyme, suck, urgent, vanish, wagon, wrinkle |
+| 11 |  architecture, basket, bloom, canoe, carpet, cousin, desk, gallery, guest, host, July, modern, museum, pink, plane, refrigerator, temperature, theater, upper, welcome |
+| 12 |  anticipate, barrel, beam, casual, caution, contrary, deliberate, dissolve, explode, fasten, germ, kit, puff, rag, scatter, scent, steel, swift, toss, triumph |
+| 13 |  aboard, bitter, bullet, devil, drift, enforce, fountain, harbor, inhabit, march, millionaire, port, sheriff, startle, sweat, trigger, unify, vessel, voyage, worship |
+| 14 |  apprentice, assure, bandage, bleed, bond, chef, crown, departure, diligent, emperor, fiber, horrible, impolite, kneel, luxury, massive, panic, priority, robe, scold |
+| 15 |  affair, assembly, bless, cereal, cheerful, diameter, exploit, famine, harvest, merry, nut, pardon, pharaoh, ripe, roast, routine, scheme, slim, stove, theft |
+| 16 |  adolescent, aptitude, compliment, hinder, journalism, jury, justice, liberty, literary, pharmacy, pill, presume, privacy, punishment, sensible, slice, sorrow, straw, swell, tidy |
+| 17 |  affection, agency, ash, confine, dismiss, erupt, fate, lava, miserable, navigate, originate, remainder, retrieve, shallow, slope, span, superstition, sympathy, vibrate, wander |
+| 18 |  armor, blaze, boom, cliff, flame, independence, invasion, knight, lightning, rebel, retreat, revolution, spear, steep, summit, thunder, troops, warrior, withdraw, yield |
+| 19 |  bench, daisy, dispute, empty, horror, incident, mist, object, orphan, plot, pregnant, rage, revenge, shame, sigh, sneak, spare, stem, supper, tender |
+| 20 |  beneath, cub, dawn, dissatisfied, ease, evident, hail, howl, leap, magnificent, necessity, outcome, pile, profound, seize, squeeze, supreme, terrific, trait, vital |
+| 21 |  attack, breast, cancer, cancerous, cell, cigarette, code, cure, destruction, DNA, extensive, female, furthermore, gene, inherit, link, male, population, result, sugar |
+| 22 |  accommodate, circus, coincide, commission, dose, dye, extent, gender, headline, informal, inquire, messenger, peer, portrait, pose, ranch, steer, stripe, tame, tempt |
+| 23 |  van, cautious, confess, cottage, daytime, desperate, exhausting, fade, fierce, gamble, lawn, mow, outlaw, prospect, purse, rod, seldom, shave, terrified, wizard |
+| 24 |  abroad, airline, audience, bargain, brief, currency, data, domestic, draft, gather, hobby, income, jet, maximum, official, recommend, refer, remote, sleepless, volume |
+| 25 |  circulate, consequent, derive, drown, dynasty, fraction, frost, illusion, invade, lieutenant, marine, merit, navy, polar, ray, resign, suicide, tremble, underlying, via |
+| 26 |  alter, aside, autumn, blend, collapse, crush, curve, disgusting, drain, embrace, envy, fireworks, flour, fuse, jealous, ginger, paste, receipt, wipe, wire |
+| 27 |  acknowledge, ambassador, blonde, conquer, drag, exaggerate, heritage, insult, meanwhile, necklace, noble, precious, prejudice, rumor, sin, spectacle, stack, suspicious, tin, vase |
+| 28 |  ache, arctic, canal, chemist, chill, congress, dairy, descend, grocer, hesitate, institution, jog, merchant, poke, postpone, splash, stubborn, suburb, tide, tragedy |
+| 29 |  bomb, certificate, circumstance, coffin, cope, criticism, devastate, frown, gaze, glance, grief, groom, license, microscope, nuclear, portray, rotate, souvenir, submarine, trace |
+| 30 |  coastline, deter, devise, distance, expertise, fracture, headache, implement, insight, limb, might, optimism, proficient, raft, ridge, shoulder, shove, spouse, thrust, tolerate |
 
 ## 4000基本英语单词4单词表
 
