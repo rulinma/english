@@ -117,3 +117,4 @@
 | 139 |  extra, engineer, overseas, engineering, company, line |
 | 141 |  excited, get, middle-aged, opposite, curiously, funny, powder, compact, kindly, ugly, amused, smile, embarrassed |
 | 142 |  worried, regularly |
+| 143 |  surround, wood, beauty, spot, hundred, city, through, visitor, tidy, litter, basket, place, throw, rubbish, count, cover, piece, tyre, rusty, among, prosecute |
