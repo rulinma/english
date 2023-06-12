@@ -58,8 +58,7 @@
 | 1 | awful, crazy, huge, moment, odd, pour, regret, steal, thief, tough; <br> chance, extra, hall, immediately, intend, mention, reaction, score, search, worse |
 | 2 | bit, common, diet, evidence, fit, limit, physical, poison, sale, type; <br> amount, cure, disease, medical, necessary, produce, reduce, serious, source, supply |
 | 3 | castle, decision, empire, explore, flight, guard, incredible, serve, skin, southern; <br> admire, ancient, attractive, giant, pack, prefer, rent, respect, view, wave |
-| 4 | base, character, clever, enemy, length, promise,
-quality, regularly, survive, title; <br> adult, classic, desert, discover, female, flow, mystery, opinion, pleasure, publish |
+| 4 | base, character, clever, enemy, length, promise, quality, regularly, survive, title; <br> adult, classic, desert, discover, female, flow, mystery, opinion, pleasure, publish |
 | 5 | cough, crowd, curious, disappear, edge, guide, local, machine, native, smoke; <br> avenue, expect, explain, rub, shine, strength, suggest, tour, western, wheel |
 | 6 | cloth, equal, fail, false, goods, increase, penny, separate, total, wrap; <br> appreciate, avoid, convenient, customer, destroy, disappointed, medium, pattern, trick, value |
 | 7 | beat, conduct, confident, lead, lift, male, muscle, speed, stretch, trouble; <br> captain, challenge, complete, encourage, noon, position, race, record, skill, wing |
