@@ -1,6 +1,6 @@
 # 1000基础英语词汇
 
-## 目录
+## 课程单词表
 
 | 课程 | 单词列表 |
 | :---:  |:----------: |
@@ -16,3 +16,9 @@
 | 10 | bottle, change, cool, cover, dry, egg, expensive, fast, fish, knife; <br> full, garden, hot, ill, kitchen, light, milk, potato, warm, wash |
 | 11 | beautiful, bicycle, city, east, far, map, open, road, shoe, side; <br> air, fly, half, left, little, new, shop, show, use, wait |
 | 12 | ask, break, desk, seat, stairs, stay, talk, understand, walk, year; <br> act, bring, glad, lesson, listen, pencil, question, right, teach, way |
+
+## 《1000基础英语词汇（AI记单词）》
+
+<!-- 提供PDF文件样章 -->
+
+<!-- 单词列表和助记等 -->
