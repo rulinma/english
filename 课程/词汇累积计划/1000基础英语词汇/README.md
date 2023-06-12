@@ -71,6 +71,14 @@ quality, regularly, survive, title; <br> adult, classic, desert, discover, femal
 
 ## 《1000基础英语词汇（AI记单词版）》
 
+《1000基础英语词汇1（AI记单词版）》
+
+《1000基础英语词汇2（AI记单词版）》
+
+《1000基础英语词汇3（AI记单词版）》
+
+《1000基础英语词汇4（AI记单词版）》
+
 <!-- 提供PDF文件样章 -->
 
 <!-- 单词列表和助记等 -->
