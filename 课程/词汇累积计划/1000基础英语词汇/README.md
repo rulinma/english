@@ -2,7 +2,7 @@
 
 ## 1000基础英语词汇1单词表
 
-| 序号 | 1000基础英语词汇1单词列表 |
+| 序号 | 单词列表 |
 | :---:  |:----------: |
 | 1 | [cry](https://www.xianglesong.com/word/cry), drive, funny, hope, laugh, nice, smile, strong, student, young; <br> big, boy, child, have, loud, story, swim, today, watch, worry |
 | 2 | able, alone, animal, become, call, catch, country, monkey, thin, word; <br> baby, clean, eat, enjoy, family, fruit, jump, kind, man, parent |
@@ -19,7 +19,7 @@
 
 ## 1000基础英语词汇2单词表
 
-| 序号 | 1000基础英语词汇2单词列表 |
+| 序号 | 单词列表 |
 | :---:  |:----------: |
 | 1 | angry, boring, class, dream, famous, feel, future, group, hobby, job; <br> hundred, invite, math, photograph, president, really, speech, travel, voice, wonder |
 | 2 | baseball, basketball, dangerous, excited, hill, hit, hospital, hurt, motorbike, slow; <br> drop, earth, flag, foolish, hold, matter, round, take, tie, weather |
@@ -36,7 +36,7 @@
 
 ## 1000基础英语词汇3单词表
 
-| 序号 | 1000基础英语词汇3单词列表 |
+| 序号 | 单词列表 |
 | :---:  |:----------: |
 | 1 | burn, exchange, introduce, offer, pardon, popular, prepare, reason, shake, shy; <br> bell, block, borrow, bowl, confuse, knock, result, seem, smart, subject |
 | 2 | active, believe, environment, forest, human, hunt, path, safe, service, wild; <br> area, choice, enter, important, lie, mad, nature, protect, shout, usually |
@@ -53,7 +53,7 @@
 
 ## 1000基础英语词汇4单词表
 
-| 序号 | 1000基础英语词汇4单词列表 |
+| 序号 | 单词列表 |
 | :---:  |:----------: |
 | 1 | awful, crazy, huge, moment, odd, pour, regret, steal, thief, tough; <br> chance, extra, hall, immediately, intend, mention, reaction, score, search, worse |
 | 2 | bit, common, diet, evidence, fit, limit, physical, poison, sale, type; <br> amount, cure, disease, medical, necessary, produce, reduce, serious, source, supply |
