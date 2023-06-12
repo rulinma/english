@@ -3,7 +3,7 @@
 ## 目录
 
 | 课程 | 单词列表 |
-| :------------:  |:----------: |
+| :---:  |:----------: |
 | 1 | [cry](https://www.xianglesong.com/word/cry), drive, funny, hope, laugh, nice, smile, strong, student, young; <br> big, boy, child, have, loud, story, swim, today, watch, worry |
 | 2 | able, alone, animal, become, call, catch, country, monkey, thin, word; <br> baby, clean, eat, enjoy, family, fruit, jump, kind, man, parent |
 | 3 | address, afternoon, come, home, letter, lunch, make, need, people, start;<br> cook, day, drink, front, great, play, see, send, small, time |
