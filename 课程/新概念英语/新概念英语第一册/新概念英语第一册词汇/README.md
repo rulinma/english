@@ -4,7 +4,7 @@
 
 | 序号 | 单词列表 |
 | :---:  |:----------: |
-| 1 |  excuse, me, yes, is, this, your, handbag, pardon, it, thank, very |
+| 1 |  excuse, me, yes, is, this, your, handbag, pardon, it, thank you, very much |
 | 2 |  pen, pencil, book, watch, coat, dress, skirt, shirt, car, house |
 | 3 |  umbrella, please, here, my, ticket, number, five, sorry, sir, cloakroom |
 | 4 |  suit, school, teacher, son, daughter |
@@ -16,7 +16,7 @@
 | 10 |  fat, woman, thin, tall, short, dirty, clean, hot, cold, old, young, busy, lazy |
 | 11 |  whose, blue, perhaps, white, catch |
 | 12 |  father, mother, blouse, sister, tie, brother, his, her |
-| 13 |  colour, green, come, upstairs, smart, hat, same, lovely |
+| 13 |  color, green, come, upstairs, smart, hat, same, lovely |
 | 14 |  case, carpet, dog |
 | 15 |  Customs, officer, girl, Danish, friend, Norwegian, passport, brown, tourist |
 | 16 |  Russian, Dutch, these, red, grey, yellow, black, orange |
