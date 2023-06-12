@@ -15,4 +15,4 @@
 | 9 | high, keep, know, let, move, pass, point, push, quick, together; <br> fall, lady, rest, run, season, short, sky, stand, tall, wear |
 | 10 | bottle, change, cool, cover, dry, egg, expensive, fast, fish, knife; <br> full, garden, hot, ill, kitchen, light, milk, potato, warm, wash |
 | 11 | beautiful, bicycle, city, east, far, map, open, road, shoe, side; <br> air, fly, half, left, little, new, shop, show, use, wait |
-| 12 |  ask, break, desk, seat, stairs, stay, talk, understand, walk, year; <br> act, bring, glad, lesson, listen, pencil, question, right, teach, way |
+| 12 | ask, break, desk, seat, stairs, stay, talk, understand, walk, year; <br> act, bring, glad, lesson, listen, pencil, question, right, teach, way |
