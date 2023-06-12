@@ -1,0 +1,120 @@
+# 新概念英语第一册词汇
+
+## 新概念英语第一册词汇单词表
+
+| 序号 | 单词列表 |
+| :---:  |:----------: |
+| 1 |  excuse, me, yes, is, this, your, handbag, pardon, it, thank you, very much |
+| 2 |  pen, pencil, book, watch, coat, dress, skirt, shirt, car, house |
+| 3 |  umbrella, please, here, my, ticket, number, five, sorry, sir, cloakroom |
+| 4 |  suit, school, teacher, son, daughter |
+| 5 |  Mr., good, morning, Miss, new, student, French, German, nice, meet, Japanese, Korean, Chinese, too |
+| 6 |  make, Swedish, English, American, Italian, Volvo, Peugeot, Mercedes, Toyota, Daewoo, Mini, Ford, Fiat |
+| 7 |  I, am, are, name, what, nationality, job, keyboard, operator, engineer |
+| 8 |  policeman, policewoman, taxi, air, postman, nurse, mechanic, hairdresser, housewife, milkman |
+| 9 |  hello, hi, how, today, well, fine, thanks, goodbye, see |
+| 10 |  fat, woman, thin, tall, short, dirty, clean, hot, cold, old, young, busy, lazy |
+| 11 |  whose, blue, perhaps, white, catch |
+| 12 |  father, mother, blouse, sister, tie, brother, his, her |
+| 13 |  color, green, come, upstairs, smart, hat, same, lovely |
+| 14 |  case, carpet, dog |
+| 15 |  Customs, officer, girl, Danish, friend, Norwegian, passport, brown, tourist |
+| 16 |  Russian, Dutch, these, red, grey, yellow, black, orange |
+| 17 |  employee, hard-working, sales, man, office, assistant |
+| 19 |  matter, children, tired, boy, thirsty, mum, sit, right, ice |
+| 20 |  big, small, open, shut, light, heavy, long, shoe, grandfather, grandmother |
+| 21 |  give, one, which |
+| 22 |  empty, full, large, little, sharp, small, big, blunt, box, glass, cup, bottle, tin, knife, fork |
+| 23 |  on, shelf |
+| 24 |  desk, table, plate, cupboard, cigarette, television, floor, dressing, magazine, bed, newspaper, stereo |
+| 25 |  Mrs., kitchen, refrigerator, right, electric, left, cooker, middle, of, room, cup |
+| 26 |  where, in |
+| 27 |  living, near, window, armchair, door, picture, wall |
+| 28 |  trousers |
+| 29 |  shut, bedroom, untidy, must, open, air, put, clothes, wardrobe, dust, sweep |
+| 30 |  empty, read, sharpen, put, take, turn, turn |
+| 31 |  garden, under, tree, climb, who, run, grass, after, cat |
+| 32 |  type, letter, basket, eat, bone, clean, tooth, cook, milk, meal, drink, tap |
+| 33 |  day, cloud, sky, sun, shine, with, family, walk, over, bridge, boat, river, ship, aeroplane, fly |
+| 34 |  sleep, shave, cry, wash, wait, jump |
+| 35 |  photograph, village, valley, between, hill, another, wife, along, bank, water, swim, across, building, park, into |
+| 36 |  beside, off |
+| 37 |  work, hard, make, bookcase, hammer, paint, pink, favourite |
+| 38 |  homework, listen, dish |
+| 39 |  front, in, careful, vase, drop, flower |
+| 40 |  show, send, take |
+| 41 |  cheese, bread, soap, chocolate, sugar, coffee, tea, tobacco |
+| 42 |  bird, any, some |
+| 43 |  of, kettle, behind, teapot, now, find, boil |
+| 45 |  can, boss, minute, ask, handwriting, terrible |
+| 46 |  lift, cake, biscuit |
+| 47 |  like, want |
+| 48 |  fresh, egg, butter, pure, honey, ripe, banana, jam, sweet, orange, Scotch, choice, apple, wine, beer, blackboard |
+| 49 |  butcher, meat, beef, lamb, husband, steak, mince, chicken, tell, truth, either |
+| 50 |  tomato, potato, cabbage, lettuce, pea, bean, pear, grape, peach |
+| 51 |  Greece, climate, country, pleasant, weather, spring, windy, warm, rain, sometimes, summer, autumn, winter, snow, January, February, March, April, May, June, July, August, September, October, November, December |
+| 52 |  the, Brazil, Holland, England, France, Germany, Italy, Norway, Russia, Spain, Sweden |
+| 53 |  mild, always, north, east, wet, west, south, season, best, night, rise, early, set, late, interesting, subject, conversation |
+| 54 |  Australia, Australian, Austria, Austrian, Canada, Canadian, China, Finland, Finnish, India, Indian, Japan, Nigeria, Nigerian, Turkey, Turkish, Korea, Polish, Poland, Thai, Thailand |
+| 55 |  live, stay, home, housework, lunch, afternoon, usually, together, evening, arrive, night |
+| 57 |  o'clock, shop, moment |
+| 59 |  envelope, writing, shop, size, pad, glue, chalk, change |
+| 61 |  feel, look, must, call, doctor, telephone, remember, mouth, tongue, bad, cold, news, headache, aspirin, earache, toothache, dentist, stomach, medicine, temperature, flu, measles, mumps |
+| 63 |  better, certainly, get, yet, rich, food, remain |
+| 64 |  play, match, talk, library, drive, so, quickly, lean, break |
+| 65 |  Dad, key, baby, hear, enjoy, yourself, ourselves |
+| 66 |  myself, themselves, himself, herself |
+| 67 |  greengrocer, absent, Monday, Tuesday, Wednesday, Thursday, keep, spend, weekend, Friday, Saturday, Sunday, country, lucky |
+| 68 |  church, dairy, baker, grocer |
+| 69 |  year, race, town, crowd, stand, exciting, just, finish, winner, behind, way |
+| 71 |  awful, telephone, time, answer, last, phone, again, say |
+| 73 |  week, London, suddenly, bus, smile, pleasantly, understand, speak, hand, pocket, phrasebook, phrase, slowly |
+| 74 |  hurriedly, cut, thirstily, go, greet |
+| 75 |  ago, buy, pair, fashion, uncomfortable, wear |
+| 77 |  appointment, urgent, till |
+| 79 |  shopping, list, vegetable, need, hope, thing, money |
+| 80 |  groceries, fruit, stationery, newsagent, chemist |
+| 81 |  bath, nearly, ready, dinner, restaurant, roast |
+| 82 |  breakfast, haircut, party, holiday |
+| 83 |  mess, pack, suitcase, leave, already |
+| 85 |  Paris, cinema, film, beautiful, city, never, ever |
+| 87 |  attendant, bring, garage, crash, lamp-post, repair, try |
+| 89 |  believe, may, how, since, why, sell, because, retire, cost, pound, worth, penny |
+| 91 |  still, move, miss, neighbour, person, people, poor |
+| 93 |  pilot, return, New, Tokyo, Madrid, fly |
+| 94 |  Athens, Berlin, Bombay, Geneva, Moscow, Rome, Seoul, Stockholm, Sydney |
+| 95 |  return, train, platform, plenty, bar, station, catch, miss |
+| 97 |  leave, describe, zip, label, handle, address, pence, belong |
+| 99 |  ow, slip, fall, downstairs, hurt, back, stand, help, at, sure, X-ray |
+| 101 |  Scotland, card, youth, hostel, association, soon, write |
+| 103 |  exam, pass, mathematics, question, easy, enough, paper, fail, answer, mark, rest, difficult, hate, low, cheer, guy, top |
+| 104 |  clever, stupid, cheap, expensive, fresh, stale, low, loud, high, hard, sweet, soft, sour |
+| 105 |  spell, intelligent, mistake, present, dictionary |
+| 106 |  carry, correct |
+| 107 |  madam, as, suit, pretty |
+| 109 |  idea, a, teaspoonful, less, a, pity, instead, advice |
+| 110 |  most, least, best, worse, worst |
+| 111 |  model, afford, deposit, instalment, price, millionaire |
+| 113 |  conductor, fare, change, note, passenger, none, neither, get, tramp, except |
+| 115 |  anyone, knock, everything, quiet, impossible, invite, anything, nothing, lemonade, joke |
+| 116 |  asleep, glasses |
+| 117 |  dining, coin, mouth, swallow, later, toilet |
+| 118 |  ring |
+| 119 |  story, happen, thief, enter, dark, torch, voice, parrot |
+| 120 |  exercise |
+| 121 |  customer, forget, manager, serve, counter, recognize |
+| 122 |  road |
+| 123 |  during, trip, travel, offer, job, guess, grow, beard |
+| 124 |  kitten |
+| 125 |  water, terribly, dry, nuisance, mean, surprise |
+| 126 |  immediately |
+| 127 |  famous, actress, at, actor, read |
+| 129 |  wave, track, mile, overtake, speed, dream, sign, driving, charge, darling |
+| 131 |  Egypt, abroad, worry |
+| 133 |  reporter, sensational, mink |
+| 135 |  future, get, hotel, latest, introduce |
+| 137 |  football, pool, win, world, poor, depend |
+| 139 |  extra, engineer, overseas, engineering, company, line |
+| 141 |  excited, get, middle-aged, opposite, curiously, funny, powder, compact, kindly, ugly, amused, smile, embarrassed |
+| 142 |  worried, regularly |
+| 143 |  surround, wood, beauty, spot, hundred, city, through, visitor, tidy, litter, basket, place, throw, rubbish, count, cover, piece, tyre, rusty, among, prosecute |
