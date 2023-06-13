@@ -11,7 +11,7 @@
 
 ### 样章参考
 
-1. 艾宾浩斯记忆曲线复习计划表（365天版）
+* 艾宾浩斯记忆曲线复习计划表（365天版）
 
 <img src="../../images/abhs_content.jpg" width="49%" alt="艾宾浩斯记忆曲线复习计划表"/>
 <img src="../../images/anhs_no_content.jpg" width="49%" alt="艾宾浩斯记忆曲线复习计划表(无内容版)"/>
