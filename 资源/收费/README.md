@@ -52,4 +52,4 @@
 <img src="../../images/英语后缀（第1版）.jpg" width="32%" alt="英语后缀（第1版）"/>
 <img src="../../images/英语词根（第1版）.jpg" width="32%" alt="英语词根（第1版）"/>
 
-<img src="../../images/wx_marulin.jpeg" width="24%" alt="马如林的微信"/>
+<img src="../../images/wx_marulin.jpeg" alt="马如林的微信"/>
