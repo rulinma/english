@@ -68,7 +68,7 @@
 |  11   |          [announce](http://www.xianglesong.com/word/announce), [bottom](http://www.xianglesong.com/word/bottom), [compete](http://www.xianglesong.com/word/compete), [copy](http://www.xianglesong.com/word/copy), [exhibit](http://www.xianglesong.com/word/exhibit), [print](http://www.xianglesong.com/word/print), [project](http://www.xianglesong.com/word/project), [proper](http://www.xianglesong.com/word/proper), [select](http://www.xianglesong.com/word/select), [sheet](http://www.xianglesong.com/word/sheet), <br> [concentrate](http://www.xianglesong.com/word/concentrate), [maximum](http://www.xianglesong.com/word/maximum), [prize](http://www.xianglesong.com/word/prize), [require](http://www.xianglesong.com/word/require), [research](http://www.xianglesong.com/word/research), [respond](http://www.xianglesong.com/word/respond), [spell](http://www.xianglesong.com/word/spell), [state](http://www.xianglesong.com/word/state), [structure](http://www.xianglesong.com/word/structure), [tool](http://www.xianglesong.com/word/tool)          |
 |  12   | [flood](http://www.xianglesong.com/word/flood), [gentle](http://www.xianglesong.com/word/gentle), [melt](http://www.xianglesong.com/word/melt), [operate](http://www.xianglesong.com/word/operate), [recognize](http://www.xianglesong.com/word/recognize), [remain](http://www.xianglesong.com/word/remain), [task](http://www.xianglesong.com/word/task), [various](http://www.xianglesong.com/word/various), [waste](http://www.xianglesong.com/word/waste), [worth](http://www.xianglesong.com/word/worth), <br> [climate](http://www.xianglesong.com/word/climate), [emergency](http://www.xianglesong.com/word/emergency), [factory](http://www.xianglesong.com/word/factory), [freeze](http://www.xianglesong.com/word/freeze), [population](http://www.xianglesong.com/word/population), [recently](http://www.xianglesong.com/word/recently), [responsible](http://www.xianglesong.com/word/responsible), [storm](http://www.xianglesong.com/word/storm), [stream](http://www.xianglesong.com/word/stream), [temperature](http://www.xianglesong.com/word/temperature) |
 
-## 《1000基础英语词汇（AI记单词版）》
+<!-- ## 《1000基础英语词汇（AI记单词版）》
 
 《1000基础英语词汇1（AI记单词版）》
 
@@ -76,7 +76,7 @@
 
 《1000基础英语词汇3（AI记单词版）》
 
-《1000基础英语词汇4（AI记单词版）》
+《1000基础英语词汇4（AI记单词版）》 -->
 
 <!-- 提供PDF文件样章 -->
 
