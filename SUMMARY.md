@@ -29,7 +29,8 @@
 * [资源](/资源/README.md)
   * [免费](/资源/免费/README.md)
   * [收费](/资源/收费/README.md)
-  * [私人定制](/资源/私人定制/README.md)
+  * [私定](/资源/私定/README.md)
+  * [私藏](/资源/私藏/README.md)
 
 * [索引](/课程/单词/README.md)
   * [A](/课程/单词/A/README.md)
