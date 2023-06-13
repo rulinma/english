@@ -16,4 +16,9 @@
 <img src="../../images/abhs_content.jpg" width="49%" alt="艾宾浩斯记忆曲线复习计划表"/>
 <img src="../../images/anhs_no_content.jpg" width="49%" alt="艾宾浩斯记忆曲线复习计划表(无内容版)"/>
 
+* 2019年普通高等学校招生全国统一考试大纲（英语）
+
+<img src="../../images/gk_kg.jpg" width="49%" alt="2019年普通高等学校招生全国统一考试大纲（英语）"/>
+<img src="../../images/gk_kg_dc.jpg" width="49%" alt="2019年普通高等学校招生全国统一考试大纲（英语）词汇表"/>
+
 <img src="../../images/wx_marulin.jpeg" width="24%" alt="马如林的微信"/>
