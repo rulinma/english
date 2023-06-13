@@ -26,6 +26,11 @@
   * [大学英语六级词汇](/课程/大学英语六级/大学英语六级词汇/README.md)
   * [硕士研究生入学考试英语](/课程/考研/硕士研究生入学考试词汇/README.md)
 
+* [资源](/资源/README.md)
+  * [免费](/资源/免费/README.md)
+  * [收费](/资源/收费/README.md)
+  * [私人定制](/资源/私人定制/README.md)
+
 * [索引](/课程/单词/README.md)
   * [A](/课程/单词/A/README.md)
   * [B](/课程/单词/B/README.md)
@@ -53,7 +58,5 @@
   * [X](/课程/单词/X/README.md)
   * [Y](/课程/单词/Y/README.md)
   * [Z](/课程/单词/Z/README.md)
-
-* [资源](/资源/README.md)
 
 * [关于](/About.md)
