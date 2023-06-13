@@ -664,4 +664,4 @@
 
 ## 参考文献
 
-1. [AI英语-人工智能记英语](https://www.xianglesong.com)
+1. [AI记单词-人工智能记单词](https://www.xianglesong.com)
