@@ -16,7 +16,7 @@
 
 <img src="../../../images/forget_curving.jpeg" alt="遗忘曲线图"/>
 
-根据上面的遗忘曲线图，所以有人制定了复习计划（提供PDF、Word和Excel版本），加强记忆。
+根据上面的遗忘曲线图，所以有人制定了复习计划，加强记忆。
 
 1． 第一个记忆周期：5分钟
 2． 第二个记忆周期：30分钟
@@ -30,6 +30,10 @@
 <img src="../../../images/abhs_content.jpg"  alt="艾宾浩斯计划表"/>
 
 <img src="../../../images/anhs_no_content.jpg" alt="艾宾浩斯计划空表"/>
+
+关注AI记单词的微信公众号“人工智能记单词”，免费获得计划表（PDF、Word和Excel文件）。
+
+<img src="../../../images/wx_word_sub.png" width="24%" alt="AI记单词微信公众号"/>
 
 ## 参考资料
 
