@@ -2203,7 +2203,6 @@ dismiss
 dismissal
 disorder
 dispatch
-despatch
 dispense
 disperse
 displace
