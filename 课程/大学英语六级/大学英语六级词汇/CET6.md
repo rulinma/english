@@ -163,3 +163,4 @@
 |  157  |                       void, volatile, volatility, voucher, vow, vulgar, waive, waiver, wardrobe, warrant                       |
 |  158  |                     warranty, watt, weary, wedge, wharf, whereabouts, whereby, whirl, wholesale, wholesome                     |
 |  159  |                        wicked, wield, wink, witch, wither, withhold, wrench, wrestling, wretched, yacht                        |
+|  160  |                                             yearn, yearning, zeal, zealous, zigzag                                             |
