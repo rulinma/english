@@ -45,7 +45,7 @@
 |  39   |                                       operation, successful, following, patient, alone, exchange, inquire, certain, caller, relative                                        |
 |  40   |                                                               hostess, unsmiling, tight, fix, globe, despair                                                                |
 |  41   |                                                               rude, mirror, hole, remark, remind, lighthouse                                                                |
-|  42   |                                musical, market, snake, pipe, tune, glimpse, snake, movement, continue, dance, obviously, difference, Indian                                 |
+|  42   |                            musical, market, snake charmer, pipe, tune, glimpse, snake, movement, continue, dance, obviously, difference, Indian                             |
 |  43   |                                       pole, flight, explorer, lie, serious, point, seem, crash, sack, clear, aircraft, endless, plain                                       |
 |  44   |                                                    forest, risk, picnic, edge, strap, possession, breath, contents, mend                                                    |
 |  45   |                                                              clear, conscience, wallet, savings, villager, per                                                              |
