@@ -35,7 +35,7 @@
 |  29   |                      bunch, bundle, bungalow, burden, bureau, bureaucratic, burglar, burial, burnt, burst                      |
 |  30   |                          bury, bush, butcher, cab, cafeteria, cage, camel, campaign, canal, candidate                          |
 |  31   |                     canteen, capsule, caption, capture, carbon, career, cargo, carpenter, carpet, carriage                     |
-|  32   |                     carrier, carve, cassette, cast, castle, casual, catastrophe, category, cater, catholic                     |
+|  32   |                carrier, carve, cassette, cast, castle, casual, catastrophe, category, cater, Catholic, catholic                |
 |  33   |                   cattle, caution, cautious, CD, ceiling, celebrated, celebration, cell, center, centigrade                    |
 |  34   |               centimetre, ceremony, certificate, chairman, chairwoman, challenging, chant, chaos, chapter, chart               |
 |  35   |                           cheat, cheek, cheerful, cheers, chef, chemist, cheque, chew, chick, choir                            |
