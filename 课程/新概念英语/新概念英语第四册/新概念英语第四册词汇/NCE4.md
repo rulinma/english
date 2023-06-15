@@ -12,7 +12,7 @@
 | 6 |  goodwill, cricket, inclination, contest, orgy, deduce, competitive, patriotism, disgrace, savage, combative, mimic, behaviour, absurd |
 | 7 |  bat, strictly, utilitarian, appreciation, obstruction, elapse, hull, interval, receipt, apparatus, shoal, herring, cod, squeak |
 | 8 |  slaughter, fit, grace, tariff, standard, dialysis, electrocute, eliminate, accord, device, hammer, pact |
-| 9 |  espionage(title), Danish, minstrel, wandering, harp, ballad, acrobatic, conjuring, Athelney, Chippenham, thither, Dane, slack, conqueror, casual, precaution, proceeds, assemble, trivial, prolonged, commissary, episode, epic, harry, assail, skirmish |
+| 9 |  espionage, Danish, minstrel, wandering, harp, ballad, acrobatic, conjuring, Athelney, Chippenham, thither, Dane, slack, conqueror, casual, precaution, proceeds, assemble, trivial, prolonged, commissary, episode, epic, harry, assail, skirmish |
 | 10 |  silicon, integrated, circuit, California, workstation, chip, newsletter, Macintosh, penalize, customize, spawn, thrive, anarchy, oriental, constitute, drove, innovator, forge, memory-chip, AT&T, Kansas, Missouri |
 | 11 |  oppress, justification, justifiably, cheat, abject, ignoble, impersonal, ego, recede, increasingly, passionately, painlessly, vitality, weariness |
 | 12 |  current, account, cash, cheque, debtor, creditor, obligation, complication, debit, specimen, forge, forgery, adopt, facilitate |
@@ -21,7 +21,7 @@
 | 15 |  secrecy, effectiveness, inquiry, positive, process, patent, agent |
 | 16 |  physiological, maximum, consideration, descendant, artificial, impose, dimension, skyscraper, tenant, civilized, banal, luxury, deprive, monstrous, edifice, toxic, ceaselessly, throng |
 | 17 |  settlement, enterprising, settler, Antipodes, promiscuous, abandon, overrun, devastation, burrow, susceptible, virus, myxomatosis, infect, epidemic, mosquito, carrier, exterminate, ironically, bequeath, pest, pestilence, confine, domesticate |
-| 18 |  porpoise(title), mariner, shark, formation, dolphin, unconscious, beaver, ashore, waterlogged, scent, ensue, intrigue, indignity, snout, shove, aquaplane, oceanarium, swoop, belly, equilibrium, butt, crack |
+| 18 |  porpoise, mariner, shark, formation, dolphin, unconscious, beaver, ashore, waterlogged, scent, ensue, intrigue, indignity, snout, shove, aquaplane, oceanarium, swoop, belly, equilibrium, butt, crack |
 | 19 |  speculation, literally, odd, tissue, plausible, hypothesis, electroencephalograph, electrode, scaly, psychiatrist, punctuate, jerky, disorder, implication |
 | 20 |  saliva, digestive, defy, analysis, prey, fierce, tussle, carnivore, vertebrate, lizard, concoct, potency, conversion, arsenic, strychnine, mamba, cobra, venom, neurotoxic, viper, rattlesnake, haemolytic, viperine |
 | 21 |  supreme, protagonist, outlaw, framed, vicious, mythology, vanished, absurdly, arena, encroaching, Indian, bewilder, alien, taboo, disinherit, undeclared, hypocrisy, chicanery, impending, immolation, code |
