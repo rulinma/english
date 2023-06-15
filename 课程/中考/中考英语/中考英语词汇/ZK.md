@@ -208,7 +208,7 @@
 |  202  |       umbrella, un, uncle, under, underground, underline, understand, unesco, unfair, unforgettable        |
 |  203  |          unhappy, unhealthy, uniform, unit, united, universe, university, unless, until, unusual           |
 |  204  |                   up, upon, upset, upstairs, use, used, useful, useless, usual, usually                    |
-|  205  |                  vacation, van, variety, various, vc, vegetable, very, vi, victory, video                  |
+|  205  |                  vacation, van, variety, various, VC, vegetable, very, vi, victory, video                  |
 |  206  |           view, village, violin, virus, visit, visitor, voice, volleyball, voluntary, volunteer            |
 |  207  |                     vote, wait, waiter, waitress, wake, walk, wall, wallet, want, war                      |
 |  208  |                     warm, warn, was, wash, waste, watch, water, watermelon, wave, way                      |
