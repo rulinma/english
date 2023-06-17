@@ -31,11 +31,11 @@
 
 更详细的内容，可参考《格林法则单字记忆法》图书。
 
-<img src="../../../images/Green1.jpg" alt="格林法则1"/>
-<img src="../../../images/Green2.jpg" alt="格林法则2"/>
-<img src="../../../images/Green3.jpg" alt="格林法则3"/>
-<img src="../../../images/Green4.jpg" alt="格林法则4"/>
-<img src="../../../images/Green5.jpg" alt="格林法则5"/>
+<img src="../../../images/green/Green1.jpg" alt="格林法则1"/>
+<img src="../../../images/green/Green2.jpg" alt="格林法则2"/>
+<img src="../../../images/green/Green3.jpg" alt="格林法则3"/>
+<img src="../../../images/green/Green4.jpg" alt="格林法则4"/>
+<img src="../../../images/green/Green5.jpg" alt="格林法则5"/>
 
 ## 维尔纳定律
 
