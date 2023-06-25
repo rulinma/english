@@ -138,163 +138,163 @@
 
 * circum-
   * 表示“周围”、“环绕”的意思
-    * circumference（周长）, circumnavigate（环航）
+    * circumference（周长）、circumnavigate（环航）
 
 * co-
   * 表示“共同”、“相互”、“一起”的意思
-    * cooperation（合作）, coexist（共存）
+    * cooperation（合作）、coexist（共存）
 
 * com-
   * 表示“共同”、“一起”的意思
-    * community（社区）, combine（结合）
+    * community（社区）、combine（结合）
 
 * con-
   * 表示“共同”、“一起”的意思
-    * connect（连接）, consensus（共识）
+    * connect（连接）、consensus（共识）
 
 * cosmo-
   * 表示“宇宙”、“世界”的意思
-    * cosmology（宇宙学）, cosmopolitan（世界主义者）
+    * cosmology（宇宙学）、cosmopolitan（世界主义者）
 
 * counter-
   * 表示“相反”、“反对”的意思
-    * counteract（抵消）, counterbalance（平衡）
+    * counteract（抵消）、counterbalance（平衡）
 
 * cross-
   * 表示“穿过”、“相交”的意思
-    * crosswalk（人行横道）, crossbreed（杂交）
+    * crosswalk（人行横道）、crossbreed（杂交）
 
 * cyan-
   * 表示“蓝色”的意思
-    * cyanide（氰化物）, cyanosis（发绀）
+    * cyanide（氰化物）、cyanosis（发绀）
 
 * cyber-
   * 表示“计算机”、“网络”的意思
-    * cybersecurity（网络安全）, cyberbullying（网络欺凌）
+    * cybersecurity（网络安全）、cyberbullying（网络欺凌）
 
 * de-
   * 表示“去掉”、“减少”的意思
-    * decode（解码）, demote（降级）
+    * decode（解码）、degrade（降级）、demote（降级）
 
 * di-
   * 表示“两个”、“双重”的意思
-    * divide（分割）, dialogue（对话）
+    * divide（分割）、dialogue（对话）
 
 * dia-
   * 表示“穿过”、“通过”的意思
-    * diagonal（对角线）, diameter（直径）
+    * diagonal（对角线）、diameter（直径）
 
 * diplo-
   * 表示“双重”、“外交”的意思
-    * diplomacy（外交）, diploid（二倍体）
+    * diplomacy（外交）、diploid（二倍体）
 
 * dis-
   * 表示“不”、“非”、“分开”的意思
-    * disagree（不同意）, disconnect（断开）
+    * disagree（不同意）、disconnect（断开）
 
 * dys-
   * 表示“困难”、“异常”的意思
-    * dyslexia（阅读障碍）, dysfunction（功能失调）
+    * dyslexia（阅读障碍）、dysfunction（功能失调）
 
 * e-
   * 表示“电子”、“电气”的意思
-    * e-mail（电子邮件）, e-commerce（电子商务）
+    * e-mail（电子邮件）、e-commerce（电子商务）
 
 * ec-
   * 表示“环境”、“生态”的意思
-    * ecology（生态学）, ecosystem（生态系统）
+    * ecology（生态学）、ecosystem（生态系统）
 
 * eco-
   * 表示“经济”、“节约”的意思
-    * economics（经济学）, ecotourism（生态旅游）
+    * economics（经济学）、ecotourism（生态旅游）
 
 * electro-
   * 表示“电”、“电动”的意思
-    * electricity（电力）, electrocardiogram（心电图）
+    * electricity（电力）、electrocardiogram（心电图）
 
 * em-
   * 表示“使”、“进入”的意思
-    * embrace（拥抱）, embark（上船）
+    * embrace（拥抱）、embark（上船）
 
 * en-
   * 表示"内在"、"在...中"
-    * enclose (包围), engrave (雕刻)
+    * enclose (包围)、engrave (雕刻)
 
 * epi-
   * 表示"在...上方"、"在...之上"
-    * epicenter (震中), epidemic (流行病)
+    * epicenter (震中)、epidemic (流行病)
 
 * eso-
   * 表示"内部"、"里面"
-    * esophagus (食管), esoteric (神秘的)
+    * esophagus (食管)、esoteric (神秘的)
 
 * ethno-
   * 表示"种族"、"民族"
-    * ethnicity (种族), ethnography (人类学)
+    * ethnicity (种族)、ethnography (人类学)
 
 * eu-
   * 表示"好的"、"真正的"
-    * eulogy (颂词), euphoria (愉悦)
+    * eulogy (颂词)、euphoria (愉悦)
 
 * ex-
   * 表示"从...出来"、"向外"
-    * exit (出口), exhale (呼气)
+    * exit (出口)、exhale (呼气)、export（出口）
 
 * exo-
   * 表示"外部"、"外面"
-    * exoskeleton (外骨骼), exoplanet (外行星)
+    * exoskeleton (外骨骼)、exoplanet (外行星)
 
 * extra-
   * 表示"在...之外"、"额外的"
-    * extraordinary (非凡的), extraterrestrial (地球外的)
+    * extraordinary (非凡的)、extraterrestrial (地球外的)
 
 * for-
   * 表示"离开"、"远离"
-    * forget (忘记), forgo (放弃)
+    * forget (忘记)、forgo (放弃)
 
 * fore-
   * 表示"在...前面"、"预测"
-    * forehead (前额), forecast (预测)
+    * forehead (前额)、forecast (预测)
 
 * geo-
   * 表示"地球"、"地理"
-    * geography (地理学), geology (地质学)
+    * geography (地理学)、geology (地质学)
 
 * gluco-
   * 表示"糖"、"葡萄糖"
-    * glucose (葡萄糖), glucosamine (葡萄糖胺)
+    * glucose (葡萄糖)、glucosamine (葡萄糖胺)
 
 * grand-
   * 表示"大"、"伟大"
-    * grandparent (祖父母), grandiose (宏伟的)
+    * grandparent (祖父母)、grandiose (宏伟的)
 
 * great-
   * 表示"大"、"重要的"
-    * great-grandparent (曾祖父母), greatness (伟大)
+    * great-grandparent (曾祖父母)、greatness (伟大)
 
 * gu-
   * 表示"有毒的"、"毒性的"
-    * guanine (鸟嘌呤), guanidine (鸟氨酸)
+    * guanine (鸟嘌呤)、guanidine (鸟氨酸)
 
 * half-
   * 表示"半个"、"不完全的"
-    * half-hearted (不热情的), halftime (半场)
+    * half-hearted (不热情的)、halftime (半场)
 
 * heli-
   * 表示"太阳"、"日光"
-    * heliocentric (日心说的), heliograph (日光照相)
+    * heliocentric (日心说的)、heliograph (日光照相)
 
 * hemi-
   * 表示"半个"、"半边"
-    * hemisphere (半球), hemistich (半句)
+    * hemisphere (半球)、hemistich (半句)
 
 * hetero-
   * 表示"不同的"、"异质的"
-    * heterosexual (异性恋), heterodox (异端的)
+    * heterosexual (异性恋)、heterodox (异端的)
 
 * homo-
   * 表示"相同的"、"同种的"
-    * homosexual (同性恋), homogeneous (同质的)
+    * homosexual (同性恋)、homogeneous (同质的)
 
 * hydro-
   * 水、液体
@@ -474,87 +474,87 @@
 
 * oxy-
   * 氧的，富氧的
-    * oxygen (氧气), oxymoron (矛盾修辞法)
+    * oxygen (氧气)、oxymoron (矛盾修辞法)
 
 * pan-
   * 全部的，广泛的
-    * pandemic (大规模流行病), panacea (万灵药)
+    * pandemic (大规模流行病)、panacea (万灵药)
 
 * para-
   * 旁边的，相似的
-    * parallel (平行的), parasite (寄生物)
+    * parallel (平行的)、parasite (寄生物)
 
 * pen-
   * 几乎，近似
-    * peninsula (半岛), penultimate (倒数第二)
+    * peninsula (半岛)、penultimate (倒数第二)
 
 * per-
   * 完全的，彻底的
-    * perfect (完美的), perpetual (永久的)
+    * perfect (完美的)、perpetual (永久的)
 
 * peri-
   * 环绕，周围
-    * perimeter (周长), periscope (潜望镜)
+    * perimeter (周长)、periscope (潜望镜)
 
 * petro-
   * 岩石的，石油的
-    * petroleum (石油), petrology (岩石学)
+    * petroleum (石油)、petrology (岩石学)
 
 * philo-
   * 爱，友好
-    * philosophy (哲学), philanthropy (慈善)
+    * philosophy (哲学)、philanthropy (慈善)
 
 * photo-
   * 光，照片
-    * photograph (照片), photon (光子)
+    * photograph (照片)、photon (光子)
 
 * physio-
   * 生理的，自然的
-    * physiology (生理学), physics (物理学)
+    * physiology (生理学)、physics (物理学)
 
 * poly-
   * 多，多种
-    * polygon (多边形), polyglot (多语者)
+    * polygon (多边形)、polyglot (多语者)
 
 * post-
   * 后面的，以后
-    * postgraduate (研究生), postscript (附言)
+    * postgraduate (研究生)、postscript (附言)
 
 * pre-
   * 先，前面的
-    * preface (前言), preview (预览)
+    * preface (前言)、preview (预览)
 
 * presby-
   * 老年的，年长者的
-    * presbyopia (老花眼), Presbyterian (长老会的)
+    * presbyopia (老花眼)、Presbyterian (长老会的)
 
 * pro-
   * 赞成，支持
-    * proponent (支持者), prologue (序幕)
+    * proponent (支持者)、prologue (序幕)
 
 * proto-
   * 最早的，原始的
-    * prototype (原型), protozoa (原生动物)
+    * prototype (原型)、protozoa (原生动物)
 
 * pseudo-
   * 假的，伪装的
-    * pseudonym (假名), pseudoscience (伪科学)
+    * pseudonym (假名)、pseudoscience (伪科学)
 
 * psycho-
   * 心理的，精神的
-    * psychology (心理学), psychotic (精神病患者)
+    * psychology (心理学)、psychotic (精神病患者)
 
 * pur-
   * 纯净的，洁净的
-    * pure (纯净的), purification (净化)
+    * pure (纯净的)、purification (净化)
 
 * radio-
   * 辐射的，广播的
-    * radioactivity (放射性), radiotherapy (放射治疗)
+    * radioactivity (放射性)、radiotherapy (放射治疗)
 
 * re-
   * 再次，重复
-    * redo (重做), rephrase (重新措辞)
+    * redo (重做)、rephrase (重新措辞)
 
 * retro-
   * 向后的，过去的

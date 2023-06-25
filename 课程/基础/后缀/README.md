@@ -14,7 +14,7 @@
 
 * -able
   * 表示能够做某事
-    * enjoyable（令人愉悦的）、 adjustable（可调整的）
+    * valueable（有价值的）、considerable（值得考虑到）、acceptable（可接受的）、enjoyable（令人愉悦的）、 adjustable（可调整的）
 
 * -acy
   * 表示状态、品质、做法
@@ -546,7 +546,7 @@
 
 * -y
   * 用于构成形容词表示“有……的”，“由……构成的”
-    * sunny（晴朗的; 阳光充足的; 欢乐的）、funny（滑稽的，有趣的）、happy（快乐的）、cloudy（多云的）、rainy（下雨的、多雨的）
+    * sunny（晴朗的; 阳光充足的; 欢乐的））、happy（快乐的）、cloudy（多云的）、rainy（下雨的、多雨的）、funny（滑稽的，有趣的
 
 * -yer
   * 做……的人
