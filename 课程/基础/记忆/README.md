@@ -37,9 +37,9 @@
 7. 第七个记忆周期：7天
 8. 第八个记忆周期：15天
 
-<img src="../../../images/abhs_content.jpg"  alt="艾宾浩斯计划表"/>
+<img src="../../../images/books/abhs_content.jpg"  alt="艾宾浩斯计划表"/>
 
-<img src="../../../images/anhs_no_content.jpg" alt="艾宾浩斯计划空表"/>
+<img src="../../../images/books/anhs_no_content.jpg" alt="艾宾浩斯计划空表"/>
 
 使用艾宾浩斯计划表记单词应该是有一定作用的，未使用过的可以试试，对比看看效果。
 
