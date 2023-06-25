@@ -81,8 +81,8 @@
     * marathon（马拉松）、 walkathon（步行比赛）
 
 * -ation
-  * 表示某种行为或状态的过程
-    * education（教育）、 meditation（冥想）
+  * 名词后缀，表示某种行为或状态的过程
+    * education（教育）、 meditation（冥想）、indentation（凹槽）
 
 * -ative
   * 表示具有某种性质、倾向的
