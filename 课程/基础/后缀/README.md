@@ -14,7 +14,7 @@
 
 * -able
   * 表示能够做某事
-    * valueable（有价值的）、considerable（值得考虑到）、acceptable（可接受的）、enjoyable（令人愉悦的）、 adjustable（可调整的）
+    * valuable（有价值的）、considerable（值得考虑到）、acceptable（可接受的）、enjoyable（令人愉悦的）、 adjustable（可调整的）
 
 * -acy
   * 表示状态、品质、做法
