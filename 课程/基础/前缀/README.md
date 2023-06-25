@@ -170,11 +170,11 @@
 
 * cyber-
   * 表示“计算机”、“网络”的意思
-    * cybersecurity（网络安全）、cyberbullying（网络欺凌）
+    * cybersecurity（网络安全）、cyberbully（网络欺凌）
 
 * de-
-  * 表示“去掉”、“减少”的意思
-    * decode（解码）、degrade（降级）、demote（降级）
+  * 表示“去掉”、“减少”、“离开”的意思
+    * decode（解码）、degrade（降级）、depart（离开）
 
 * di-
   * 表示“两个”、“双重”的意思
