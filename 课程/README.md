@@ -14,7 +14,7 @@
 
     <img src="../images/wx_word_sub.png" width="24%" alt="AI记单词微信公众号"/>
 
-* 赠送免费课程资料
+* 提供课程资料及复习资料
 
 * 赠送AI记单词软件使用1-2年
 
