@@ -14,7 +14,9 @@
 <img src="../images/wx_word_sub.png" width="24%" alt="AI记单词微信公众号"/>
 
 * 赠送免费课程资料
+
 * 赠送AI记单词软件使用1-2年
+
 * 随到随学，随时可退（按实际上课情况收费），最新一期开班时间2023-07月，限额500，欲报从速
 <img src="../images/wx_marulin.jpeg" width="24%" alt="马如林的微信"/>
 
