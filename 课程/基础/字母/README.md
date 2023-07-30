@@ -1345,7 +1345,7 @@
 
 ### AI学单词
 
-<img src="../../../images/xianglesong.png" width="49%" alt="AI学单词网址"/>
+<img src="../../../images/aixuedanci.png" width="49%" alt="AI学单词网址"/>
 
 ### 赞赏
 

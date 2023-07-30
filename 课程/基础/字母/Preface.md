@@ -322,22 +322,3 @@
 （外）其他文化引入
 
 最后，把字母的形成搞明白，单词的记忆就可以参考，从而做到有的放矢。这个单词为什么由这几个字母组成？道理是什么？合理吗？想通了可能事倍功半，千万不要死记硬背，要活学活用，知其然也知其所以然。
-
-<!-- 
-## 附录
-
-### 微信
-
-<img src="../../../images/wx_marulin.jpeg" width="49%" alt="马如林的微信"/>
-
-### 微信公众号
-
-<img src="../../../images/wx_word_sub.png" width="49%" alt="AI学单词微信公众号"/>
-
-### AI学单词
-
-<img src="../../../images/xianglesong.png" width="49%" alt="AI学单词网址"/>
-
-### 赞赏
-
-<img src="../../../images/wx_bonus_create_support.jpeg" width="49%" alt="创作不易 感谢支持"/> -->
