@@ -1,6 +1,6 @@
 # 关于
 
-## [AI记单词](https://www.xianglesong.com)
+## [AI学单词](https://www.xianglesong.com)
 
 作者[马如林](https://about.rulinma.com)通过大学英语四、六级考试，雅思A类6分和这么多年软件工程师的学习工作经验积累，同时也包括对孩子的培养心得总结，结合使用人工智能的方法学习和使用英语的实战指南产品，官方配套[软件](https://www.xianglesong.com)，买会员（加微信rulinma购买）送无限[免费资料](资源/README.md)，绝对超值。
 
@@ -35,6 +35,6 @@
 * 我工作中做过汇丰和富达的项目，这种全球性企业，英语交流是基础，我英语就拖后腿了，阅读问题不大，但是口语交流就没辙了，有种书到用时方恨少的感觉，引以为鉴。
 
 <img src="images/wx_marulin.jpeg" width="24%" alt="马如林的微信"/>
-<img src="images/wx_word_sub.png" width="24%" alt="AI记单词微信公众号"/>
+<img src="images/wx_word_sub.png" width="24%" alt="AI学单词微信公众号"/>
 <img src="images/wx_bonus.jpeg" width="24%" alt="请喝一杯"/>
-<img src="images/xianglesong.png" width="24%" alt="AI记单词网址"/>
+<img src="images/xianglesong.png" width="24%" alt="AI学单词网址"/>

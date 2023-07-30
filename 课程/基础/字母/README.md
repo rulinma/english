@@ -1318,7 +1318,7 @@
 
 ## 参考资料
 
-* [AI记单词](https://www.xianglesong.com)
+* [AI学单词](https://www.xianglesong.com)
 * [象形记单词](https://book.douban.com/subject/10529960/)
 * [巧妙学单词：从象形到读音](https://book.douban.com/subject/30751225/)
 * [象形英文](http://product.dangdang.com/23507973.html)
@@ -1341,11 +1341,11 @@
 
 ### 微信公众号
 
-<img src="../../../images/wx_word_sub.png" width="49%" alt="AI记单词微信公众号"/>
+<img src="../../../images/wx_word_sub.png" width="49%" alt="AI学单词微信公众号"/>
 
-### AI记单词
+### AI学单词
 
-<img src="../../../images/xianglesong.png" width="49%" alt="AI记单词网址"/>
+<img src="../../../images/xianglesong.png" width="49%" alt="AI学单词网址"/>
 
 ### 赞赏
 

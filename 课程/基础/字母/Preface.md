@@ -332,11 +332,11 @@
 
 ### 微信公众号
 
-<img src="../../../images/wx_word_sub.png" width="49%" alt="AI记单词微信公众号"/>
+<img src="../../../images/wx_word_sub.png" width="49%" alt="AI学单词微信公众号"/>
 
-### AI记单词
+### AI学单词
 
-<img src="../../../images/xianglesong.png" width="49%" alt="AI记单词网址"/>
+<img src="../../../images/xianglesong.png" width="49%" alt="AI学单词网址"/>
 
 ### 赞赏
 

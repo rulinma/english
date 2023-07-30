@@ -98,9 +98,9 @@
 
 使用艾宾浩斯计划表记单词应该是有一定作用的，未使用过的可以试试，对比看看效果。
 
-关注AI记单词的微信公众号“人工智能记单词”，免费获得艾宾浩斯遗忘曲线（Forgetting curve）计划表（PDF、Word和Excel文件）。
+关注AI学单词的微信公众号“人工智能学单词”，免费获得艾宾浩斯遗忘曲线（Forgetting curve）计划表（PDF、Word和Excel文件）。
 
-<img src="../../../images/wx_word_sub.png" width="24%" alt="AI记单词微信公众号"/>
+<img src="../../../images/wx_word_sub.png" width="24%" alt="AI学单词微信公众号"/>
 
 ## 参考资料
 
