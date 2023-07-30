@@ -14,6 +14,6 @@
 ## 课程目标
 
 * 认识单词
-  * 结合[AI学单词](https://www.xianglesong.com)强化
+  * 结合[AI学单词](https://www.aixuedanci.com)强化
 * 掌握语法（二册基本包括所有常用语法，可以结合《剑桥英语语法》（Grammar In Use）再学习）
 * 背诵课文（办法比较笨，但是可能效果比较好，特别是第二册开始）

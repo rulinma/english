@@ -80,5 +80,5 @@
 
 # 参考文献
 
-1. [AI学单词-好记英语](https://www.xianglesong.com)
-2. [英语学习和实战指南](https://english.xianglesong.com)
+1. [AI学单词-好记英语](https://www.aixuedanci.com)
+2. [英语学习和实战指南](https://english.aixuedanci.com)

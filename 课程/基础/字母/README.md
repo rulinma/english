@@ -1318,7 +1318,7 @@
 
 ## 参考资料
 
-* [AI学单词](https://www.xianglesong.com)
+* [AI学单词](https://www.aixuedanci.com)
 * [象形记单词](https://book.douban.com/subject/10529960/)
 * [巧妙学单词：从象形到读音](https://book.douban.com/subject/30751225/)
 * [象形英文](http://product.dangdang.com/23507973.html)

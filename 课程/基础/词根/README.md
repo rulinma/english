@@ -240,4 +240,4 @@
 
 ## 参考文献
 
-1. [AI学单词-人工智能学单词](https://www.xianglesong.com)
+1. [AI学单词-人工智能学单词](https://www.aixuedanci.com)
