@@ -1324,8 +1324,18 @@
   * 闪电（Z象形及衍生）
     * zest（热情，光热）
     * zealous（充满激情的）
-    * zeal（热情）
-  * Z形
+    * zeal（热情）- [字母](#字母)
+  - [前言](#前言)
+  - [英语演变](#英语演变)
+  - [字母表](#字母表)
+  - [总结](#总结)
+
+  * Z形- [字母](#字母)
+  - [前言](#前言)
+  - [英语演变](#英语演变)
+  - [字母表](#字母表)
+  - [总结](#总结)
+
     * zigzag（Z行的）
     * zip/zipper（拉链）
     * zebra（斑马）
@@ -1341,38 +1351,3 @@
 * （外）其他文化引入
 
 把字母的形成搞明白，单词的记忆就可以参考，从而做到有的放矢。这个单词为什么由这几个字母组成，道理是什么？合理吗？想通了可能事倍功半，千万不要死记硬背，要活学活用，知其然也知其所以然。
-
-## 参考资料
-
-* [AI学单词](https://www.aixuedanci.com)
-* [象形记单词](https://book.douban.com/subject/10529960/)
-* [巧妙学单词：从象形到读音](https://book.douban.com/subject/30751225/)
-* [象形英文](http://product.dangdang.com/23507973.html)
-* [象形5000](https://book.douban.com/subject/25782487/)
-* [Claude in Slack](https://www.anthropic.com/claude-in-slack)
-* [ChatGPT](https://chat.openai.com/chat)
-* [Word Power Made Easy](https://book.douban.com/subject/25977798/)
-* [用23张图，告诉孩子26个英文字母的来历](https://www.sohu.com/a/344937328_120144900)
-* [English alphabet](https://en.wikipedia.org/wiki/English_alphabet)
-* [The Origin of the English Alphabet (and all its 26 letters)](https://www.daytranslations.com/blog/origin-english-alphabet)
-* [字母的歷史](https://zh.wikipedia.org/wiki/%E5%AD%97%E6%AF%8D%E7%9A%84%E6%AD%B7%E5%8F%B2)
-* [英文字母](https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%96%87%E5%AD%97%E6%AF%8)
-* 从人和物的视角探讨英文中二十六个拉丁字母的象形本源
-
-## 附录
-
-### 微信
-
-<img src="../../../images/wx_marulin.jpeg" width="49%" alt="马如林的微信"/>
-
-### 微信公众号
-
-<img src="../../../images/wx_word_sub.png" width="49%" alt="AI学单词微信公众号"/>
-
-### AI学单词
-
-<img src="../../../images/aixuedanci.png" width="49%" alt="AI学单词网址"/>
-
-### 赞赏
-
-<img src="../../../images/wx_bonus_create_support.jpeg" width="49%" alt="创作不易 感谢支持"/>
